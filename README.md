@@ -1,6 +1,6 @@
 <<<<<<< HEAD
-# Equipo 0X - Nombre del curso
-### Carrera de Ingeniería Ambiental / Informática / Industrial  
+# Equipo 01 - Fundamentos de Diseño
+### Carrera de Ingeniería Informática / Industrial  
 =======
 # Equipo 01 - Fundamentos de Diseño
 ### Carrera de Ingeniería Informática / Industrial  
@@ -11,7 +11,7 @@
 
 ## 🌍 Descripción del Equipo 
 <<<<<<< HEAD
-Somos el **Equipo 0X** del curso **Nombre del curso 202X-1**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.  
+Somos el **Equipo 01** del curso **Nombre del curso 2026-II**, conformado por estudiantes de la carrera de Ingeniería Informática / Industrial.  
 =======
 Somos el **Equipo 01** del curso **Fundamentos de Diseño 2026-II**, conformado por estudiantes de la carrera de Ingeniería Informática / Industrial.  
 >>>>>>> 7b5001cfed041ca0c076b0885003b6cef3588338
