@@ -12,6 +12,7 @@ Somos el **Equipo 01** del curso **Fundamentos de Diseño 2026-II**, conformado 
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.
 
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**
+
 - ODS 3: Salud y Bienestar
 - ODS 6: Agua Limpia y Saneamiento
 - ODS 9: Industria, Innovación e Infraestructura
@@ -19,7 +20,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 - ODS 13: Acción por el Clima
 
 ---
- 
+
 ## 📸 Fotografía del Equipo
 
 <p align="center">
@@ -33,11 +34,11 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Nombre 1** | Líder del equipo | Innovación social, sostenibilidad |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Nombre 2** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Nombre 3** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Nombre 4** | Encargado/a de documentación | Comunicación científica, redacción técnica |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Ray Joaquín Mayta Quiñonez** | Programador | Programación y simulacion|
+| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Juan Tordoya** | Líder del equipo | Innovación social, sostenibilidad |
+| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Sharlene Angela Acrota Granados** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="/Recursos/Imágenes/integrante3.png" width="90"/> | **Yanella Salcedo** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
+| <img src="/Recursos/Imágenes/integrante4.png" width="90"/> | **Nombre 4** | Encargado/a de documentación | Comunicación científica, redacción técnica |
+| <img src="/Recursos/Imágenes/integrante5.png" width="90"/> | **Ray Joaquín Mayta Quiñonez** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
 
 ---
 
