@@ -1,11 +1,20 @@
+<<<<<<< HEAD
 # Equipo 0X - Nombre del curso
 ### Carrera de Ingeniería Ambiental / Informática / Industrial  
+=======
+# Equipo 01 - Fundamentos de Diseño
+### Carrera de Ingeniería Informática / Industrial  
+>>>>>>> 7b5001cfed041ca0c076b0885003b6cef3588338
 **Universidad Peruana Cayetano Heredia**
 
 ---
 
 ## 🌍 Descripción del Equipo 
+<<<<<<< HEAD
 Somos el **Equipo 0X** del curso **Nombre del curso 202X-1**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.  
+=======
+Somos el **Equipo 01** del curso **Fundamentos de Diseño 2026-II**, conformado por estudiantes de la carrera de Ingeniería Informática / Industrial.  
+>>>>>>> 7b5001cfed041ca0c076b0885003b6cef3588338
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
 
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
@@ -33,7 +42,11 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 | <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Nombre 2** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
 | <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Nombre 3** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
 | <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Nombre 4** | Encargado/a de documentación | Comunicación científica, redacción técnica |
+<<<<<<< HEAD
 | <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Nombre 5** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+=======
+| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Ray Joaquín Mayta Quiñonez** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+>>>>>>> 7b5001cfed041ca0c076b0885003b6cef3588338
 
 ---
 
