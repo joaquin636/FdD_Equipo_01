@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# Equipo 01 - Fundamentos de Diseño
-### Carrera de Ingeniería Informática / Industrial  
-# Equipo 01 - Fundamentos de Diseño
+ # Equipo 01 - Fundamentos de Diseño
 ### Carrera de Ingeniería Informática / Industrial  
 **Universidad Peruana Cayetano Heredia**
 
