@@ -7,7 +7,7 @@
 
 ## 🌍 Descripción del Equipo
 
-Somos el **Equipo 01** del curso **Fundamentos de Diseño 2026-II**, conformado por estudiantes de la carrera de Ingeniería Informática / Industrial.
+Somos el **Equipo 01** del curso **Fundamentos de Diseño 2026-II**, conformado por estudiantes de la carrera de Ingeniería Informática e Ingeniería Industrial.
 
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.
 
@@ -22,6 +22,7 @@ El Objetivo de Desarrollo Sostenible 10 **(ODS 10)** tiene como propósito reduc
 Nuestra principal área de enfoque será la Meta 10.2, que busca promover la inclusión social, económica y política de todas las personas, independientemente de su condición, incluyendo explícitamente a las personas con discapacidad.
 
 Esta meta se relaciona directamente con nuestro tema debido a las barreras que pueden enfrentar las personas con discapacidad visual para desenvolverse de manera autónoma en diferentes espacios. Las dificultades para orientarse y desplazarse pueden generar dependencia de otras personas y limitar su participación en actividades cotidianas, educativas, laborales y sociales.
+
 Por ello, nuestro equipo busca abordar la problemática desde una perspectiva de inclusión y autonomía de las personas con discapacidad visual, buscando comprender las barreras que dificultan su desplazamiento independiente.
 
 **ODS Complementario: ODS 11 – Ciudades y comunidades sostenibles**
@@ -31,9 +32,10 @@ El Objetivo de Desarrollo Sostenible 11 (ODS 11) busca lograr que las ciudades y
 **Meta 11.2**
 
 La meta relacionada con nuestro tema es la Meta 11.2, que busca garantizar el acceso a sistemas de transporte seguros, accesibles y sostenibles para todas las personas, prestando especial atención a las necesidades de las personas en situaciones vulnerables, incluyendo a las personas con discapacidad.
+
 Esta meta complementa nuestro enfoque porque la movilidad y el desplazamiento seguro son aspectos importantes para la autonomía y participación de las personas con discapacidad visual dentro de su entorno.
 
-**PROBLEMATICA QUE BUSACAMOS ABORDAR**
+## PROBLEMATICA QUE BUSACAMOS ABORDAR
 
 Las personas con discapacidad visual pueden enfrentar diversas dificultades para orientarse y desplazarse de manera autónoma y segura en espacios cotidianos. La presencia de obstáculos, personas u otros elementos en su entorno puede dificultar su desplazamiento y generar situaciones de inseguridad o dependencia de terceros.
 
@@ -41,7 +43,7 @@ Esta problemática puede limitar su autonomía y dificultar su participación pl
 
 Como equipo, durante el desarrollo del curso buscamos comprender mejor esta problemática, identificar las principales necesidades de las personas con discapacidad visual y analizar las condiciones que pueden dificultar su desplazamiento independiente.
 
-**DELIMITACIÓN DEL TEMA**
+## DELIMITACIÓN DEL TEMA
 
 Nuestro trabajo se enfocará en las barreras de orientación, movilidad y seguridad que enfrentan las personas con discapacidad visual durante sus desplazamientos en espacios cotidianos, considerando cómo estas dificultades pueden afectar su autonomía e inclusión social.
 
