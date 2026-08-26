@@ -14,9 +14,11 @@ Nuestro objetivo es aplicar la metodología de diseño para generar soluciones i
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**
 
 -**ODS Principal: ODS 10 – Reducción de las desigualdades**
+
 El Objetivo de Desarrollo Sostenible 10 **(ODS 10)** tiene como propósito reducir las desigualdades dentro y entre los países, promoviendo condiciones que permitan una mayor inclusión y participación de todas las personas. Dentro de este objetivo se reconoce la importancia de promover la inclusión independientemente de características como la edad, sexo, discapacidad, origen, religión o condición económica.
 
 **Meta 10.2**
+
 Nuestra principal área de enfoque será la Meta 10.2, que busca promover la inclusión social, económica y política de todas las personas, independientemente de su condición, incluyendo explícitamente a las personas con discapacidad.
 
 Esta meta se relaciona directamente con nuestro tema debido a las barreras que pueden enfrentar las personas con discapacidad visual para desenvolverse de manera autónoma en diferentes espacios. Las dificultades para orientarse y desplazarse pueden generar dependencia de otras personas y limitar su participación en actividades cotidianas, educativas, laborales y sociales.
@@ -27,6 +29,7 @@ Por ello, nuestro equipo busca abordar la problemática desde una perspectiva de
 El Objetivo de Desarrollo Sostenible 11 (ODS 11) busca lograr que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles. Dentro de este objetivo se considera la importancia de garantizar condiciones adecuadas de movilidad y accesibilidad para las personas, especialmente para aquellas que se encuentran en situaciones de vulnerabilidad.
 
 **Meta 11.2**
+
 La meta relacionada con nuestro tema es la Meta 11.2, que busca garantizar el acceso a sistemas de transporte seguros, accesibles y sostenibles para todas las personas, prestando especial atención a las necesidades de las personas en situaciones vulnerables, incluyendo a las personas con discapacidad.
 Esta meta complementa nuestro enfoque porque la movilidad y el desplazamiento seguro son aspectos importantes para la autonomía y participación de las personas con discapacidad visual dentro de su entorno.
 
