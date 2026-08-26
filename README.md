@@ -13,8 +13,8 @@ Nuestro objetivo es aplicar la metodología de diseño para generar soluciones i
 
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**
 
-- ODS 03: Salud y Bienestar
-- ODS 10: Reducción de desigualdades
+-ODS Principal: ODS 10 – **Reducción de las desigualdades**
+El Objetivo de Desarrollo Sostenible 10 **(ODS 10)** tiene como propósito reducir las desigualdades dentro y entre los países, promoviendo condiciones que permitan una mayor inclusión y participación de todas las personas. Dentro de este objetivo se reconoce la importancia de promover la inclusión independientemente de características como la edad, sexo, discapacidad, origen, religión o condición económica.
 
 ---
 
