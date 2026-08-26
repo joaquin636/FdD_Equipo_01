@@ -35,7 +35,7 @@ La meta relacionada con nuestro tema es la Meta 11.2, que busca garantizar el ac
 
 Esta meta complementa nuestro enfoque porque la movilidad y el desplazamiento seguro son aspectos importantes para la autonomía y participación de las personas con discapacidad visual dentro de su entorno.
 
-## PROBLEMATICA QUE BUSACAMOS ABORDAR
+## PROBLEMATICA QUE BUSCAMOS ABORDAR
 
 Las personas con discapacidad visual pueden enfrentar diversas dificultades para orientarse y desplazarse de manera autónoma y segura en espacios cotidianos. La presencia de obstáculos, personas u otros elementos en su entorno puede dificultar su desplazamiento y generar situaciones de inseguridad o dependencia de terceros.
 
