@@ -25,7 +25,7 @@ Esta meta se relaciona directamente con nuestro tema debido a las barreras que p
 
 Por ello, nuestro equipo busca abordar la problemática desde una perspectiva de inclusión y autonomía de las personas con discapacidad visual, buscando comprender las barreras que dificultan su desplazamiento independiente.
 
-**ODS Complementario: ODS 11 – Ciudades y comunidades sostenibles**
+-**ODS Complementario: ODS 11 – Ciudades y comunidades sostenibles**
 
 El Objetivo de Desarrollo Sostenible 11 (ODS 11) busca lograr que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles. Dentro de este objetivo se considera la importancia de garantizar condiciones adecuadas de movilidad y accesibilidad para las personas, especialmente para aquellas que se encuentran en situaciones de vulnerabilidad.
 
@@ -47,6 +47,13 @@ Como equipo, durante el desarrollo del curso buscamos comprender mejor esta prob
 
 Nuestro trabajo se enfocará en las barreras de orientación, movilidad y seguridad que enfrentan las personas con discapacidad visual durante sus desplazamientos en espacios cotidianos, considerando cómo estas dificultades pueden afectar su autonomía e inclusión social.
 
+El problema será abordado principalmente desde el **ODS 10** y complementariamente desde el **ODS 11** 
+
+Durante el desarrollo del curso, el equipo buscará profundizar en las necesidades, experiencias y dificultades de los usuarios relacionados con esta problemática, con el propósito de comprender mejor el problema antes de plantear posibles alternativas de diseño.
+
+
+
+
 ---
 
 ## 📸 Fotografía del Equipo
@@ -62,14 +69,14 @@ Nuestro trabajo se enfocará en las barreras de orientación, movilidad y seguri
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/Juan.jpeg" width="90"/> | **Juan Tordoya** | Líder del equipo | Innovación social, sostenibilidad |
+| <img src="/Recursos/Imágenes/Juan.jpeg" width="90"/> | **Juan Manuel Tordoya Cardicelis** | Líder del equipo | Innovación social, sostenibilidad |
 | <img src="/Recursos/Imágenes/Sharlene.jpeg" width="90"/> | **Sharlene Angela Acrota Granados** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="/Recursos/Imágenes/Yanella.jpeg" width="90"/> | **Yanella Salcedo** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
-| <img src="/Recursos/Imágenes/Daniela.jpeg" width="90"/> | **Daniela Cadillo** | Encargado/a de documentación | Comunicación científica, redacción técnica |
-| <img src="/Recursos/Imágenes/Joaquín.jpeg" width="90"/> | **Ray Joaquín Mayta Quiñonez** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+| <img src="/Recursos/Imágenes/Yanella.jpeg" width="90"/> | **Yanella Sthefhany Salcedo Siguas** | Diseñadora | Diseño de prototipos, creatividad aplicada |
+| <img src="/Recursos/Imágenes/Daniela.jpeg" width="90"/> | **Daniela del Pilar Cadillo Chavez** | Encargada de documentación | Comunicación científica, redacción técnica |
+| <img src="/Recursos/Imágenes/Joaquín.jpeg" width="90"/> | **Ray Joaquín Mayta Quiñonez** | Programador - Modelador | Programación, análisis de datos, simulación |
 
 ---
 
 ## 📌 Resumen Final
 
-Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.
+Este README presenta quiénes somos como equipo, qué nos motiva y la problemática que nos interesa abordar durante el curso. Nuestro trabajo busca contribuir a una sociedad más inclusiva, enfocándonos principalmente en el ODS 10 y complementándolo con el ODS 11.
