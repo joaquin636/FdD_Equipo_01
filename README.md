@@ -72,7 +72,7 @@ Durante el desarrollo del curso, el equipo buscará profundizar en las necesidad
 | <img src="/Recursos/Imágenes/Juan.jpeg" width="90"/> | **Juan Manuel Tordoya Cardicelis** | Líder del equipo | Innovación social, sostenibilidad |
 | <img src="/Recursos/Imágenes/Sharlene.jpeg" width="90"/> | **Sharlene Angela Acrota Granados** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
 | <img src="/Recursos/Imágenes/Yanella.jpeg" width="90"/> | **Yanella Sthefhany Salcedo Siguas** | Diseñadora | Diseño de prototipos, creatividad aplicada |
-| <img src="/Recursos/Imágenes/Daniela.jpeg" width="90"/> | **Daniela del Pilar Cadillo Chavez** | Encargada de documentación | Comunicación científica, redacción técnica |
+| <img src="/Recursos/Imágenes/Daniela.jpeg" width="90"/> | **Daniela del Pilar Cadillo Chavez** | Desarrolladora de propuestas | Generar ideas, evaluar propuestas, plantear mejoras |
 | <img src="/Recursos/Imágenes/Joaquín.jpeg" width="90"/> | **Ray Joaquín Mayta Quiñonez** | Programador - Modelador | Programación, análisis de datos, simulación |
 
 ---
