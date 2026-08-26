@@ -16,6 +16,12 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 -ODS Principal: ODS 10 – **Reducción de las desigualdades**
 El Objetivo de Desarrollo Sostenible 10 **(ODS 10)** tiene como propósito reducir las desigualdades dentro y entre los países, promoviendo condiciones que permitan una mayor inclusión y participación de todas las personas. Dentro de este objetivo se reconoce la importancia de promover la inclusión independientemente de características como la edad, sexo, discapacidad, origen, religión o condición económica.
 
+**Meta 10.2**
+Nuestra principal área de enfoque será la Meta 10.2, que busca promover la inclusión social, económica y política de todas las personas, independientemente de su condición, incluyendo explícitamente a las personas con discapacidad.
+
+Esta meta se relaciona directamente con nuestro tema debido a las barreras que pueden enfrentar las personas con discapacidad visual para desenvolverse de manera autónoma en diferentes espacios. Las dificultades para orientarse y desplazarse pueden generar dependencia de otras personas y limitar su participación en actividades cotidianas, educativas, laborales y sociales.
+
+Por ello, nuestro equipo busca abordar la problemática desde una perspectiva de inclusión y autonomía de las personas con discapacidad visual, buscando comprender las barreras que dificultan su desplazamiento independiente
 ---
 
 ## 📸 Fotografía del Equipo
