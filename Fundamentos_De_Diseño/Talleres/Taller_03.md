@@ -12,6 +12,8 @@ Esta patente propone un sistema de asistencia para personas con discapacidad vis
 **Fuente:**  
 https://patents.google.com/patent/US20140184384A1/en
 
+<img width="1884" height="1529" alt="1" src="https://github.com/user-attachments/assets/24c3ab4f-429d-4ae7-a7cf-78e2e8e16dd5" />
+
 ---
 
 ### 2. Wearable Navigation System for the Visually Impaired (US10900788B2)
@@ -26,6 +28,9 @@ Esta patente presenta un sistema wearable que combina sensores de distancia, cá
 **Fuente:**  
 https://patents.google.com/patent/US10900788B2/en
 
+<img width="2043" height="1610" alt="US10900788-20210126-D00002" src="https://github.com/user-attachments/assets/041fc1aa-49e9-4939-ab87-e70a354d0a68" />
+
+
 ### 3. Stereophonic Apparatus for Blind and Visually-Impaired People (EP3924873A1)
 
 **Autores:** Solomon, L. & Solomon, D.  
@@ -35,6 +40,7 @@ Esta patente plantea un sistema wearable orientado a la asistencia de personas c
 
 **Fuente:**  
 https://patents.google.com/patent/EP3924873A1/en
+
 
 ---
 
