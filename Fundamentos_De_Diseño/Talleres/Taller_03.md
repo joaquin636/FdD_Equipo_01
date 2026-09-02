@@ -23,13 +23,12 @@ https://patents.google.com/patent/US20140184384A1/en
 
 Esta patente presenta un sistema wearable que combina sensores de distancia, cámaras y procesamiento de imágenes para obtener información sobre el entorno. Los dispositivos de medición pueden distribuirse sobre el cuerpo para detectar elementos desde diferentes posiciones, mientras que las cámaras permiten identificar objetos presentes en el campo de visión. La información obtenida se transforma en estímulos no visuales para el usuario, proporcionando una alternativa para reconocer elementos del entorno que podrían dificultar el recorrido y apoyar la orientación y seguridad de las personas con discapacidad visual.
 
----
-
 **Fuente:**  
 https://patents.google.com/patent/US10900788B2/en
 
 <img width="2043" height="1610" alt="US10900788-20210126-D00002" src="https://github.com/user-attachments/assets/041fc1aa-49e9-4939-ab87-e70a354d0a68" />
 
+---
 
 ### 3. Stereophonic Apparatus for Blind and Visually-Impaired People (EP3924873A1)
 
