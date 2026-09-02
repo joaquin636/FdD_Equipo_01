@@ -29,13 +29,13 @@ Esta investigación desarrolla un dispositivo de asistencia basado en ultrasonid
 
 https://repositorio.usat.edu.pe/items/38a8bb81-5684-4b5b-95bc-2445624bf977/full
 
-Esta investigación desarrolla un **bastón sensorial con geolocalización** para apoyar el desplazamiento de personas con discapacidad visual en Chiclayo. La propuesta integra el bastón tradicional con tecnologías de **orientación, localización y asistencia**, ampliando su función más allá de la detección de obstáculos. [(Fernandez Llontop, 2021)](https://www.zotero.org/google-docs/?o1QqOn)
+Esta investigación desarrolla un bastón sensorial con geolocalización para apoyar el desplazamiento de personas con discapacidad visual en Chiclayo. La propuesta integra el bastón tradicional con tecnologías de orientación, localización y asistencia, ampliando su función más allá de la detección de obstáculos. [(Fernandez Llontop, 2021)](https://www.zotero.org/google-docs/?o1QqOn)
 
 ### “Diseño e implementación de un prototipo de ubicación espacial para personas con discapacidad visual mediante IoT” – Frank Anthony Cayambe Gamarra
 
 https://dspace.ups.edu.ec/handle/123456789/30245
 
-Esta investigación, publicada en **2025**, propone un dispositivo corporal basado en **IoT** para brindar información espacial a personas con discapacidad visual. Integra sensores ultrasónicos, de proximidad y GPS, procesando los datos para proporcionar información en tiempo real mediante **señales táctiles y de audio**. Constituye un antecedente relevante por combinar **detección del entorno, geolocalización y comunicación multimodal** en un sistema wearable de asistencia. [(](https://www.zotero.org/google-docs/?4MkIQ9)[*Repositorio Institucional de la Universidad Politécnica Salesiana: Diseño e implementación de un prototipo de ubicación espacial para personas con discapacidad visual mediante IOT*](https://www.zotero.org/google-docs/?4MkIQ9)[, s. f.)](https://www.zotero.org/google-docs/?4MkIQ9)
+Esta investigación, publicada en 2025, propone un dispositivo corporal basado en IoT para brindar información espacial a personas con discapacidad visual. Integra sensores ultrasónicos, de proximidad y GPS, procesando los datos para proporcionar información en tiempo real mediante señales táctiles y de audio. Constituye un antecedente relevante por combinar detección del entorno, geolocalización y comunicación multimodal en un sistema wearable de asistencia. [(](https://www.zotero.org/google-docs/?4MkIQ9)[*Repositorio Institucional de la Universidad Politécnica Salesiana: Diseño e implementación de un prototipo de ubicación espacial para personas con discapacidad visual mediante IOT*](https://www.zotero.org/google-docs/?4MkIQ9)[, s. f.)](https://www.zotero.org/google-docs/?4MkIQ9)
 
 
 # Artículos de divulgación e institucionales
@@ -44,19 +44,19 @@ Esta investigación, publicada en **2025**, propone un dispositivo corporal basa
 
 https://www.who.int/news-room/fact-sheets/detail/blindness-and-visual-impairment
 
-La **OMS** señala que al menos **2.200 millones de personas** presentan algún tipo de deficiencia visual, de las cuales al menos **1.000 millones** podrían haberse prevenido o aún no han sido atendidas adecuadamente. Esta situación evidencia la necesidad de desarrollar **soluciones tecnológicas que mejoren la autonomía y movilidad** de las personas con discapacidad visual.
+La OMS señala que al menos 2.200 millones de personas presentan algún tipo de deficiencia visual, de las cuales al menos 1.000 millones podrían haberse prevenido o aún no han sido atendidas adecuadamente. Esta situación evidencia la necesidad de desarrollar soluciones tecnológicas que mejoren la autonomía y movilidad de las personas con discapacidad visual.
 
 ### “Stanford Researchers Build $400 Self-Navigating Smart Cane”
 
 https://hai.stanford.edu/news/stanford-researchers-build-400-self-navigating-smart-cane
 
-Stanford desarrolló un **bastón aumentado** que combina el bastón convencional con **LiDAR, GPS, sensores e inteligencia artificial** para detectar obstáculos y orientar al usuario. Mediante algoritmos de navegación y una rueda motorizada, el dispositivo proporciona asistencia física durante el desplazamiento. En las pruebas, los participantes caminaron aproximadamente **20 % más rápido** que con un bastón blanco convencional, demostrando el potencial de la robótica y los sensores para mejorar la movilidad de personas con discapacidad visual.
+Stanford desarrolló un bastón aumentado que combina el bastón convencional con LiDAR, GPS, sensores e inteligencia artificial para detectar obstáculos y orientar al usuario. Mediante algoritmos de navegación y una rueda motorizada, el dispositivo proporciona asistencia física durante el desplazamiento. En las pruebas, los participantes caminaron aproximadamente 20 % más rápido que con un bastón blanco convencional, demostrando el potencial de la robótica y los sensores para mejorar la movilidad de personas con discapacidad visual.
 
 ### Proyecto de bastón inteligente de estudiantes UARM para personas con discapacidad visual
 
 https://www.uarm.edu.pe/noticia/exitosa-destaca-proyecto-de-ingenieria-industrial-uarm-para-personas-con-discapacidad-visual/
 
-Estudiantes de Ingeniería Industrial de la **UARM** desarrollaron un **bastón inteligente de bajo costo** para mejorar la autonomía y seguridad de personas con discapacidad visual. El prototipo detecta obstáculos a aproximadamente **60 cm** mediante un sensor de proximidad y alerta al usuario mediante **sonidos y vibraciones**. Además, incorpora un sensor de inclinación para detectar cuando el bastón ha caído. Este proyecto destaca como antecedente peruano por demostrar que es posible desarrollar una solución funcional y accesible, con una inversión aproximada de **S/120**.
+Estudiantes de Ingeniería Industrial de la UARM desarrollaron un bastón inteligente de bajo costo para mejorar la autonomía y seguridad de personas con discapacidad visual. El prototipo detecta obstáculos a aproximadamente 60 cm mediante un sensor de proximidad y alerta al usuario mediante sonidos y vibraciones. Además, incorpora un sensor de inclinación para detectar cuando el bastón ha caído. Este proyecto destaca como antecedente peruano por demostrar que es posible desarrollar una solución funcional y accesible, con una inversión aproximada de S/120.
 
 
 # Artículos científicos
@@ -115,20 +115,6 @@ https://www.glidance.io/
 Ayuda de movilidad con dos ruedas, cámaras y sensores que no solamente avisa que existe un obstáculo sino que guía físicamente al usuario alrededor de él.
 
 
-# Propuesta de proyecto
-
-Dispositivo wearable multimodal para asistencia a la movilidad de personas con discapacidad visual, capaz de detectar y seguir obstáculos estáticos y dinámicos alrededor del usuario, estimar riesgo de colisión y comunicar dirección y urgencia mediante retroalimentación háptica espacial.
-
-El punto decisivo sería detectar peligro, no simplemente presencia.
-
-Supongamos que hay:
-
-- una pared a 1,5 m a la derecha;
-- una persona quieta a 2 m delante;
-- otra persona aproximándose rápidamente desde la izquierda;
-- alguien caminando detrás en la misma dirección.
-
-Un sistema convencional de proximidad puede empezar a generar cuatro alertas y saturar al usuario. La literatura vibrotáctil ya advierte precisamente sobre la sobrecarga cuando se codifican demasiadas dimensiones simultáneamente. Su sistema debería priorizar: “izquierda: riesgo inmediato de colisión” y no molestar al usuario con los otros tres objetos hasta que sean relevantes.
 
 
 
