@@ -11,7 +11,7 @@ https://patents.google.com/patent/US10900788B2/en
 
 Combina sensores de distancia, cámaras, reconocimiento de imágenes y señales no visuales. Puede utilizar varios rangefinders separados entre sí para obtener información espacial y comunicar al usuario la identidad y distancia de objetos próximos. La familia estadounidense figura en Google Patents con patente concedida en 2021.[(ANANTHA, 2021)](https://www.zotero.org/google-docs/?EXi9oI)
 
-### P3924873A1
+### EP3924873A1
 https://patents.google.com/patent/EP3924873A1/en
 
 Sistema wearable que combina cámaras, sensores de distancia, GPS y procesamiento mediante algoritmos/IA. Describe explícitamente el uso de LiDAR o ultrasonido + cámaras, identificación de aceras, calles, vehículos, semáforos, puertas y ascensores y cambios de comportamiento según el escenario.[(SOLOMON & Solomon, 2021)](https://www.zotero.org/google-docs/?J93FkR)
