@@ -6,6 +6,21 @@ https://patents.google.com/patent/US20140184384A1/en
 
 Esta patente propone un sistema de asistencia para personas con discapacidad visual basado en una red de dispositivos sensor-actuador distribuidos sobre el cuerpo. Los módulos pueden incorporarse en prendas, cinturones, brazaletes, muñecas, piernas, zapatos u otras partes del cuerpo. Cada módulo integra un sensor capaz de detectar propiedades del entorno, como la distancia a un obstáculo, y un actuador que transforma esta información en estímulos perceptibles, principalmente mediante vibraciones.[(Zhu et al., 2014)](https://www.zotero.org/google-docs/?GiOlAr)
 
+## 🟦 Patentes
+
+### 1. Wearable Navigation Assistance for the Vision-Impaired
+
+**Autores:** Zhu, Z., Ro, T., Ai, L., Khoo, W., Molina, E. & Palmer, F.  
+**Año:** 2014
+
+Sistema wearable que utiliza sensores de distancia para detectar obstáculos y
+transmitir su proximidad mediante vibraciones cuya intensidad varía según la
+distancia. Además, permite distribuir los sensores estratégicamente para ampliar
+el campo de detección alrededor del usuario.
+
+🔗 **Fuente:**  
+https://patents.google.com/patent/US20140184384A1/en
+
 ### US10900788B2
 https://patents.google.com/patent/US10900788B2/en
 
