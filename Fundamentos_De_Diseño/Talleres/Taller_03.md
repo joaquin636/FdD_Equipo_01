@@ -260,23 +260,4 @@ https://www.glidance.io/
 
 16. Glidance. Glide: intelligent guide aid for blind and low vision users [Internet]. [citado 2 sep 2026]. Disponible en: https://www.glidance.io/
 
----
-
-## Ejemplo de citas dentro del texto
-
-Los sistemas de asistencia para personas con discapacidad visual pueden utilizar sensores distribuidos sobre el cuerpo para detectar obstáculos y comunicar su proximidad mediante vibraciones (1).
-
-Otros dispositivos combinan cámaras, sensores de distancia e inteligencia artificial para obtener una representación más completa del entorno (2,3).
-
-El uso de sensores ultrasónicos también ha demostrado ser una alternativa viable para detectar obstáculos a distancias de aproximadamente 2,50 m (5).
-
-La retroalimentación vibrotáctil permite comunicar información sobre la dirección, distancia y altura de los obstáculos, aunque transmitir demasiada información simultáneamente puede generar sobrecarga para el usuario (11).
-
-Los sistemas más recientes incorporan detección de objetos mediante inteligencia artificial y señales táctiles para proporcionar información del entorno en tiempo real (12).
-
-GuideTouch utiliza sensores Time-of-Flight y actuadores vibrotáctiles para comunicar la dirección de obstáculos mediante señales corporales (13).
-
----
-
-> **Nota:** En Vancouver, las referencias se numeran según el orden en que aparecen por primera vez en el texto. Por lo tanto, si citas primero a van Erp et al., esa referencia debería convertirse en la número 1, aunque actualmente figure como número 11.
 
