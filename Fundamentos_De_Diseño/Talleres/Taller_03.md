@@ -170,15 +170,19 @@ https://ifdesign.com/es/winner-ranking/project/wewalk-smart-cane-2/676885
 
 ---
 
-### 14. NOA – biped.ai
+### 14. NOA 
 
 Dispositivo wearable en forma de chaleco o arnés que incorpora cámaras,
 inteligencia artificial y guía sonora para ayudar al usuario a detectar
 obstáculos y orientarse durante sus desplazamientos.
 
+**Fuente:**
+
+https://biped.ai/
+
 ---
 
-### 15. Glide – Glidance
+### 15. Glide 
 
 Dispositivo de asistencia a la movilidad que combina cámaras y sensores para
 detectar obstáculos y, a diferencia de otros sistemas, también guía físicamente
