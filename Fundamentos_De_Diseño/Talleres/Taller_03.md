@@ -156,7 +156,7 @@ https://www.researchgate.net/publication/399956302_GuideTouch_An_Obstacle_Avoida
 
 ---
 
-## 🟪 Productos comerciales
+## Productos comerciales
 
 ### 13. WeWALK Smart Cane 2
 
