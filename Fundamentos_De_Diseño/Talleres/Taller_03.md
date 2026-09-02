@@ -7,7 +7,7 @@
 **Autores:** Zhu, Z., Ro, T., Ai, L., Khoo, W., Molina, E. & Palmer, F.  
 **Año:** 2014
 
-Esta patente propone un sistema de asistencia para personas con discapacidad visual basado en una red de dispositivos sensor-actuador distribuidos sobre el cuerpo. Los módulos pueden incorporarse en prendas, cinturones, brazaletes, muñecas, piernas, zapatos u otras partes del cuerpo. Cada módulo integra un sensor capaz de detectar propiedades del entorno, como la distancia a un obstáculo, y un actuador que transforma esta información en estímulos perceptibles, principalmente mediante vibraciones.
+Esta patente propone un sistema de asistencia portátil compuesto por módulos sensor-actuador distribuidos en diferentes partes del cuerpo, como prendas, cinturones, muñecas, piernas y zapatos. Los sensores permiten detectar características del entorno, como la distancia hacia un obstáculo, mientras que los actuadores transforman esta información en estímulos perceptibles, principalmente mediante vibraciones. La propuesta permite que una persona con discapacidad visual reciba información sobre elementos que se encuentran en su recorrido sin depender de la visión, abordando una de las principales dificultades relacionadas con la seguridad y orientación durante el desplazamiento.
 
 **Fuente:**  
 https://patents.google.com/patent/US20140184384A1/en
@@ -21,7 +21,7 @@ https://patents.google.com/patent/US20140184384A1/en
 **Autor:** Anantha, S.  
 **Año:** 2021
 
-Esta patente presenta un sistema wearable que combina sensores de distancia, cámaras, procesamiento de imágenes y estímulos no visuales para construir una representación del entorno que pueda ser interpretada por una persona con discapacidad visual. El sistema utiliza uno o varios dispositivos de medición de distancia distribuidos sobre el cuerpo para obtener información desde diferentes posiciones y, simultáneamente, puede emplear una cámara para identificar objetos presentes en el campo de visión.
+Esta patente presenta un sistema wearable que combina sensores de distancia, cámaras y procesamiento de imágenes para obtener información sobre el entorno. Los dispositivos de medición pueden distribuirse sobre el cuerpo para detectar elementos desde diferentes posiciones, mientras que las cámaras permiten identificar objetos presentes en el campo de visión. La información obtenida se transforma en estímulos no visuales para el usuario, proporcionando una alternativa para reconocer elementos del entorno que podrían dificultar el recorrido y apoyar la orientación y seguridad de las personas con discapacidad visual.
 
 ---
 
@@ -36,7 +36,7 @@ https://patents.google.com/patent/US10900788B2/en
 **Autores:** Solomon, L. & Solomon, D.  
 **Año:** 2021 
 
-Esta patente plantea un sistema wearable orientado a la asistencia de personas con discapacidad visual mediante la integración de sensores de distancia, cámaras, dispositivos de audio y procesamiento mediante algoritmos e inteligencia artificial. Los datos recopilados del entorno son procesados por una plataforma informática, que puede ser un teléfono inteligente, una Raspberry Pi u otro dispositivo de procesamiento portátil.
+Esta patente plantea un sistema wearable de asistencia que integra sensores de distancia, cámaras, dispositivos de audio y procesamiento mediante algoritmos e inteligencia artificial. Los datos obtenidos del entorno pueden ser procesados mediante dispositivos portátiles, como un teléfono inteligente o una Raspberry Pi, y utilizados para proporcionar información al usuario. La propuesta considera diferentes formas de captar y comunicar información ambiental, lo que permite abordar las dificultades que una persona con discapacidad visual puede encontrar al identificar elementos de su entorno durante sus desplazamientos.
 
 **Fuente:**  
 https://patents.google.com/patent/EP3924873A1/en
@@ -51,7 +51,7 @@ https://patents.google.com/patent/EP3924873A1/en
 **Autor:** Magno Parra Farfán  
 **Año:** 2015
 
-Esta investigación desarrolla un dispositivo de asistencia basado en ultrasonido para mejorar la seguridad y movilidad de personas con discapacidad visual. El sistema detecta obstáculos y estima su posición, alcanzando distancias de hasta 2,50 m. La tesis demuestra la utilidad de los sensores ultrasónicos como herramienta para ampliar la percepción del entorno y facilitar el desplazamiento. 
+Esta investigación desarrolla un dispositivo de asistencia basado en ultrasonido para apoyar el desplazamiento de personas con discapacidad visual. El sistema permite detectar obstáculos y estimar su posición a distancias de hasta 2,50 m. El trabajo muestra cómo la detección de elementos presentes en el entorno puede ampliar la percepción de una persona que no puede identificarlos visualmente, contribuyendo a comprender las necesidades relacionadas con la seguridad y movilidad durante los recorridos cotidianos.
 
 **Fuente:**  
 https://tesis.pucp.edu.pe/items/1b43d841-9f9f-4789-8804-75b69a36710f
@@ -63,7 +63,7 @@ https://tesis.pucp.edu.pe/items/1b43d841-9f9f-4789-8804-75b69a36710f
 **Autor:** Roger Jaime Fernández Llontop  
 **Año:** 2021
 
-Esta investigación desarrolla un bastón sensorial con geolocalización para apoyar el desplazamiento de personas con discapacidad visual en Chiclayo. La propuesta integra el bastón tradicional con tecnologías de orientación, localización y asistencia, ampliando su función más allá de la detección de obstáculos.
+Esta investigación desarrolla un bastón sensorial con geolocalización para apoyar el desplazamiento de personas con discapacidad visual en Chiclayo. La propuesta integra el bastón tradicional con tecnologías de orientación, localización y asistencia, ampliando sus funciones durante el recorrido. El trabajo permite considerar que las dificultades de movilidad no se relacionan únicamente con la presencia de obstáculos, sino también con la necesidad de conocer la ubicación y orientarse adecuadamente para desplazarse de manera más autónoma.
 
 **Fuente:**  
 https://repositorio.usat.edu.pe/items/38a8bb81-5684-4b5b-95bc-2445624bf977/full
@@ -74,7 +74,7 @@ https://repositorio.usat.edu.pe/items/38a8bb81-5684-4b5b-95bc-2445624bf977/full
 
 **Autor:** Frank Anthony Cayambe Gamarra
 
-Esta investigación, publicada en 2025, propone un dispositivo corporal basado en IoT para brindar información espacial a personas con discapacidad visual. Integra sensores ultrasónicos, de proximidad y GPS, procesando los datos para proporcionar información en tiempo real mediante señales táctiles y de audio. Constituye un antecedente relevante por combinar detección del entorno, geolocalización y comunicación multimodal en un sistema wearable de asistencia.
+Esta investigación propone un dispositivo corporal basado en IoT para proporcionar información espacial a personas con discapacidad visual. El prototipo integra sensores ultrasónicos, sensores de proximidad y GPS para obtener información relacionada tanto con el entorno como con la ubicación del usuario. Estos datos son comunicados en tiempo real mediante señales táctiles y de audio. La propuesta reúne detección de obstáculos, ubicación y comunicación de información, abordando diferentes necesidades que pueden presentarse durante el desplazamiento y la orientación en espacios cotidianos.
 
 **Fuente:**  
 https://dspace.ups.edu.ec/handle/123456789/30245
@@ -87,7 +87,7 @@ https://dspace.ups.edu.ec/handle/123456789/30245
 
 **Institución:** Organización Mundial de la Salud (OMS)
 
-La OMS señala que al menos 2.200 millones de personas presentan algún tipo de deficiencia visual, de las cuales al menos 1.000 millones podrían haberse prevenido o aún no han sido atendidas adecuadamente. Esta situación evidencia la necesidad de desarrollar soluciones tecnológicas que mejoren la autonomía y movilidad de las personas con discapacidad visual.
+La Organización Mundial de la Salud señala que al menos 2.200 millones de personas presentan algún tipo de deficiencia visual, de las cuales al menos 1.000 millones podrían haberse prevenido o aún no han sido atendidas adecuadamente. Esta información permite dimensionar la magnitud de la discapacidad visual y la importancia de considerar las dificultades que pueden presentarse en las actividades cotidianas. Dentro de estas dificultades se encuentran aquellas relacionadas con la orientación, movilidad y desplazamiento seguro, aspectos que pueden influir en la autonomía y participación de las personas en diferentes espacios.
 
 **Fuente:**  
 https://www.who.int/news-room/fact-sheets/detail/blindness-and-visual-impairment
@@ -98,7 +98,7 @@ https://www.who.int/news-room/fact-sheets/detail/blindness-and-visual-impairment
 
 **Institución:** Stanford University
 
-Stanford desarrolló un bastón aumentado que combina el bastón convencional con LiDAR, GPS, sensores e inteligencia artificial para detectar obstáculos y orientar al usuario. Mediante algoritmos de navegación y una rueda motorizada, el dispositivo proporciona asistencia física durante el desplazamiento. En las pruebas, los participantes caminaron aproximadamente 20 % más rápido que con un bastón blanco convencional, demostrando el potencial de la robótica y los sensores para mejorar la movilidad de personas con discapacidad visual.
+Stanford presenta un bastón aumentado que combina el bastón convencional con LiDAR, GPS, sensores e inteligencia artificial para detectar obstáculos y orientar al usuario. Además, incorpora algoritmos de navegación y una rueda motorizada que proporciona asistencia durante el desplazamiento. En las pruebas, los participantes caminaron aproximadamente un 20 % más rápido que utilizando un bastón blanco convencional. Este proyecto evidencia cómo la integración de detección, navegación y asistencia física puede contribuir a enfrentar dificultades de movilidad y favorecer desplazamientos más autónomos.
 
 **Fuente:**  
 https://hai.stanford.edu/news/stanford-researchers-build-400-self-navigating-smart-cane
@@ -109,7 +109,7 @@ https://hai.stanford.edu/news/stanford-researchers-build-400-self-navigating-sma
 
 **Institución:** Universidad Antonio Ruiz de Montoya (UARM)
 
-Estudiantes de Ingeniería Industrial de la UARM desarrollaron un bastón inteligente de bajo costo para mejorar la autonomía y seguridad de personas con discapacidad visual. El prototipo detecta obstáculos a aproximadamente 60 cm mediante un sensor de proximidad y alerta al usuario mediante sonidos y vibraciones. Además, incorpora un sensor de inclinación para detectar cuando el bastón ha caído. Este proyecto destaca como antecedente peruano por demostrar que es posible desarrollar una solución funcional y accesible, con una inversión aproximada de S/120.
+Estudiantes de Ingeniería Industrial de la UARM desarrollaron un bastón inteligente de bajo costo para apoyar la movilidad de personas con discapacidad visual. El prototipo utiliza un sensor de proximidad para detectar obstáculos aproximadamente a 60 cm y comunica su presencia mediante sonidos y vibraciones. También incorpora un sensor de inclinación para identificar cuando el bastón ha caído. La propuesta muestra una alternativa accesible que combina detección del entorno y alertas al usuario, elementos relacionados con la necesidad de desplazarse con mayor seguridad y autonomía.
 
 **Fuente:**  
 https://www.uarm.edu.pe/noticia/exitosa-destaca-proyecto-de-ingenieria-industrial-uarm-para-personas-con-discapacidad-visual/
@@ -123,11 +123,7 @@ https://www.uarm.edu.pe/noticia/exitosa-destaca-proyecto-de-ingenieria-industria
 **Autores:** van Erp, Kroon, Mioch & Paul  
 **Año:** 2017
 
-Estudia el uso de un cinturón vibrotáctil capaz de transmitir información sobre
-la dirección, distancia y altura de los obstáculos mediante diferentes patrones
-de vibración. Los resultados muestran el potencial de la retroalimentación
-táctil, aunque también advierten sobre el riesgo de sobrecarga cognitiva cuando
-se transmite demasiada información al mismo tiempo.
+Este estudio analiza un cinturón vibrotáctil diseñado para transmitir información sobre la dirección, distancia y altura de los obstáculos mediante diferentes patrones de vibración. La investigación muestra cómo las características de los elementos presentes en el entorno pueden comunicarse mediante el sentido del tacto, permitiendo que el usuario obtenga información relevante para orientar su desplazamiento sin depender de la visión. Además, señala que transmitir demasiada información al mismo tiempo puede generar sobrecarga cognitiva, aspecto importante al diseñar sistemas de asistencia para una movilidad segura y comprensible.
 
 **Fuente:**  
 https://www.frontiersin.org/journals/ict/articles/10.3389/fict.2017.00023/full
@@ -139,10 +135,7 @@ https://www.frontiersin.org/journals/ict/articles/10.3389/fict.2017.00023/full
 **Autores:** Shen, Chen & Sawada  
 **Año:** 2022
 
-Propone un dispositivo wearable que combina la detección de objetos en tiempo
-real con señales táctiles para comunicar la presencia de obstáculos. La
-investigación busca ofrecer una solución portátil capaz de procesar información
-del entorno utilizando hardware con recursos limitados.
+Esta investigación propone un dispositivo wearable para peatones con discapacidad visual que combina la detección de objetos en tiempo real con señales táctiles. El sistema busca identificar elementos presentes durante el desplazamiento y comunicar esta información mediante estímulos que puedan ser percibidos por el usuario. Además, plantea una solución portátil que puede procesar información utilizando hardware con recursos limitados. El estudio permite observar cómo la identificación de objetos y la comunicación táctil pueden utilizarse para apoyar la percepción del entorno y reducir las dificultades relacionadas con la movilidad segura.
 
 **Fuente:**  
 https://pubmed.ncbi.nlm.nih.gov/35746319/
@@ -154,10 +147,7 @@ https://pubmed.ncbi.nlm.nih.gov/35746319/
 **Autores:** Kozlov et al.  
 **Año:** 2026
 
-Presenta un dispositivo de asistencia que utiliza sensores de distancia y
-actuadores vibrotáctiles ubicados en la parte superior del cuerpo. Su principal
-aporte es la detección de obstáculos elevados que podrían no ser identificados
-por un bastón convencional.
+GuideTouch presenta un dispositivo de asistencia que utiliza sensores de distancia y actuadores vibrotáctiles ubicados en la parte superior del cuerpo. Su principal aporte consiste en detectar obstáculos elevados que podrían no ser identificados mediante un bastón convencional. Esta característica permite reconocer que las dificultades de desplazamiento de las personas con discapacidad visual no se limitan a los obstáculos ubicados a nivel del suelo, sino que también pueden incluir elementos situados a diferentes alturas. Por ello, el estudio amplía la comprensión de los riesgos que pueden presentarse durante el desplazamiento cotidiano.
 
 **Fuente:**  
 https://www.researchgate.net/publication/399956302_GuideTouch_An_Obstacle_Avoidance_Device_for_Visually_Impaired
@@ -168,10 +158,7 @@ https://www.researchgate.net/publication/399956302_GuideTouch_An_Obstacle_Avoida
 
 ### 13. WeWALK Smart Cane 2
 
-Bastón inteligente que conserva las funciones de un bastón convencional y
-añade detección de obstáculos, navegación y asistencia mediante voz e
-inteligencia artificial. De esta manera, combina la utilidad tradicional del
-bastón con herramientas tecnológicas para mejorar la movilidad.
+WeWALK Smart Cane 2 mantiene las funciones de un bastón convencional e incorpora herramientas tecnológicas para la detección de obstáculos, navegación y asistencia mediante voz e inteligencia artificial. La combinación de las funciones tradicionales con herramientas de orientación permite proporcionar información adicional al usuario durante sus desplazamientos. Este producto muestra cómo diferentes tecnologías pueden integrarse en un dispositivo de movilidad para responder a necesidades relacionadas con la percepción del entorno, orientación y autonomía.
 
 **Fuente:**  
 https://ifdesign.com/es/winner-ranking/project/wewalk-smart-cane-2/676885
@@ -180,9 +167,7 @@ https://ifdesign.com/es/winner-ranking/project/wewalk-smart-cane-2/676885
 
 ### 14. NOA 
 
-Dispositivo wearable en forma de chaleco o arnés que incorpora cámaras,
-inteligencia artificial y guía sonora para ayudar al usuario a detectar
-obstáculos y orientarse durante sus desplazamientos.
+NOA es un dispositivo wearable en forma de chaleco o arnés que incorpora cámaras, inteligencia artificial y guía sonora para ayudar al usuario a detectar obstáculos y orientarse durante sus desplazamientos. El sistema utiliza las cámaras para obtener información del entorno y proporciona indicaciones sonoras al usuario. De esta manera, plantea una alternativa para acceder a información ambiental sin depender directamente de la percepción visual, abordando dificultades de orientación y desplazamiento que pueden limitar la autonomía de las personas con discapacidad visual.
 
 **Fuente:**
 
@@ -192,10 +177,7 @@ https://biped.ai/
 
 ### 15. Glide 
 
-Dispositivo de asistencia a la movilidad que combina cámaras y sensores para
-detectar obstáculos y, a diferencia de otros sistemas, también guía físicamente
-al usuario alrededor de ellos. Su propuesta busca facilitar un desplazamiento
-más fluido y seguro.
+Glide es un dispositivo de asistencia a la movilidad que combina cámaras y sensores para detectar obstáculos durante el desplazamiento. Además de identificar los elementos presentes en el recorrido, el dispositivo proporciona guía física al usuario para desplazarse alrededor de ellos. Esta característica permite observar una propuesta que no se limita a informar sobre los obstáculos, sino que también busca facilitar el recorrido, relacionándose directamente con las dificultades de movilidad y seguridad que pueden experimentar las personas con discapacidad visual en sus desplazamientos cotidianos.
 
 **Fuente:**  
 https://www.glidance.io/
