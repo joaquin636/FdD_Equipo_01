@@ -1,17 +1,17 @@
 ## BUSQUEDA BIBLIOGRAFICA
 # Patentes
 
-### US20140184384A1
+### P1
 https://patents.google.com/patent/US20140184384A1/en
 
 Sistema corporal de pares sensor-actuador que pueden colocarse en brazos, ropa, cinturón, cabeza, piernas, zapatos y otras zonas. El sensor puede medir distancia y generar vibraciones cuya intensidad cambia según la proximidad del obstáculo. Incluso contempla orientar sensores hacia los costados y distribuirlos estratégicamente para obtener detección de 360°.[(Zhu et al., 2014)](https://www.zotero.org/google-docs/?GiOlAr)
 
-### US10900788B2
+### P2
 https://patents.google.com/patent/US10900788B2/en
 
 Combina sensores de distancia, cámaras, reconocimiento de imágenes y señales no visuales. Puede utilizar varios rangefinders separados entre sí para obtener información espacial y comunicar al usuario la identidad y distancia de objetos próximos. La familia estadounidense figura en Google Patents con patente concedida en 2021.[(ANANTHA, 2021)](https://www.zotero.org/google-docs/?EXi9oI)
 
-### EP3924873A1
+### P3
 https://patents.google.com/patent/EP3924873A1/en
 
 Sistema wearable que combina cámaras, sensores de distancia, GPS y procesamiento mediante algoritmos/IA. Describe explícitamente el uso de LiDAR o ultrasonido + cámaras, identificación de aceras, calles, vehículos, semáforos, puertas y ascensores y cambios de comportamiento según el escenario.[(SOLOMON & Solomon, 2021)](https://www.zotero.org/google-docs/?J93FkR)
