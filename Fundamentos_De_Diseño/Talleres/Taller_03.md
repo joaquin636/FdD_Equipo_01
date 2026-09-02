@@ -174,7 +174,7 @@ NOA es un dispositivo wearable en forma de chaleco o arnés que incorpora cámar
 **Fuente:**
 
 https://biped.ai/
-<img width="1035" height="1331" alt="WhatsApp Image 2026-09-02 at 12 21 32 PM" src="https://github.com/user-attachments/assets/0da2cd4a-c4dd-4928-80e4-7f5ef135fa40" />
+<img width="435" height="731" alt="WhatsApp Image 2026-09-02 at 12 21 32 PM" src="https://github.com/user-attachments/assets/0da2cd4a-c4dd-4928-80e4-7f5ef135fa40" />
 
 ---
 
