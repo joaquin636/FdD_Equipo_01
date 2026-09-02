@@ -21,6 +21,8 @@ https://patents.google.com/patent/US20140184384A1/en
 
 Esta patente presenta un sistema wearable que combina sensores de distancia, cámaras, procesamiento de imágenes y estímulos no visuales para construir una representación del entorno que pueda ser interpretada por una persona con discapacidad visual. El sistema utiliza uno o varios dispositivos de medición de distancia distribuidos sobre el cuerpo para obtener información desde diferentes posiciones y, simultáneamente, puede emplear una cámara para identificar objetos presentes en el campo de visión.
 
+---
+
 **Fuente:**  
 https://patents.google.com/patent/US10900788B2/en
 
