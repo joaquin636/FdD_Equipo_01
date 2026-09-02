@@ -163,6 +163,8 @@ WeWALK Smart Cane 2 mantiene las funciones de un bastón convencional e incorpor
 **Fuente:**  
 https://ifdesign.com/es/winner-ranking/project/wewalk-smart-cane-2/676885
 
+<img width="1189" height="1600" alt="wewalk_1" src="https://github.com/user-attachments/assets/bcfad86f-b389-467a-899e-54926c9049fe" />
+
 ---
 
 ### 14. NOA 
@@ -181,6 +183,8 @@ Glide es un dispositivo de asistencia a la movilidad que combina cámaras y sens
 
 **Fuente:**  
 https://www.glidance.io/
+
+<img width="1920" height="1238" alt="6a463e344281bc58b993cc77_manwalking2_1" src="https://github.com/user-attachments/assets/0a234c21-8576-4287-bcba-b30f7b78dcf2" />
 
 ---
 
