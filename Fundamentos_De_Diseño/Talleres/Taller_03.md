@@ -130,17 +130,6 @@ Supongamos que hay:
 
 Un sistema convencional de proximidad puede empezar a generar cuatro alertas y saturar al usuario. La literatura vibrotáctil ya advierte precisamente sobre la sobrecarga cuando se codifican demasiadas dimensiones simultáneamente. Su sistema debería priorizar: “izquierda: riesgo inmediato de colisión” y no molestar al usuario con los otros tres objetos hasta que sean relevantes.
 
-## Referencias Bibliográficas
 
-* **Anantha, S. (2021).** *Wearable navigation system for the visually impaired* (United States Patent No. US10900788B2). [Ver patente](https://patents.google.com/patent/US10900788B2/en)
 
-* **Cayambe Gamarra, F. A. (2025).** *Diseño e implementación de un prototipo de ubicación espacial para personas con discapacidad visual mediante IOT* (Tesis de grado). Universidad Politécnica Salesiana. [Ver repositorio](https://dspace.ups.edu.ec/handle/123456789/30245)
-
-* **Fernandez Llontop, R. J. (2021).** *Bastón sensorial geolocalizador inteligente para apoyar en el desplazamiento de personas invidentes en la Organización Regional de Ciegos del Perú – Chiclayo* (Tesis de ingeniería). Universidad Católica Santo Toribio de Mogrovejo. [Ver repositorio](https://hdl.handle.net/20.500.12423/3213)
-
-* **Parra Farfán, M. (2015).** *Diseño de dispositivo basado en ultrasonido para desplazamiento de personas en condición de discapacidad visual* (Tesis de licenciatura). Pontificia Universidad Católica del Perú. [Ver repositorio](http://hdl.handle.net/20.500.12404/6041)
-
-* **Solomon, L., & Solomon, D. (2021).** *Stereophonic apparatus for blind and visually-impaired people* (European Union Patent No. EP3924873A1). [Ver patente](https://patents.google.com/patent/EP3924873A1/en)
-
-* **Zhu, Z., Ro, T., Ai, L., Khoo, W., Molina, E., & Palmer, F. (2014).** *Wearable navigation assistance for the vision-impaired* (United States Patent No. US20140184384A1). [Ver patente](https://patents.google.com/patent/US20140184384A1/en)
 
