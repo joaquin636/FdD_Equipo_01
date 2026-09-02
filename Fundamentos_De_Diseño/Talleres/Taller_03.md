@@ -222,26 +222,61 @@ https://www.glidance.io/
 | **Dirección háptica** | Zona corporal donde se genera la alerta para indicar la dirección del peligro. | Zona del wearable | Hombro izquierdo |
 | **Intensidad o frecuencia de vibración** | Nivel de urgencia comunicado al usuario. | Intensidad / frecuencia | Vibración rápida = peligro inmediato |
 
-## Interpretación
-
-Los antecedentes muestran una evolución desde sistemas que únicamente detectan la **proximidad de obstáculos** hasta dispositivos capaces de realizar **reconocimiento de objetos, navegación inteligente y evitación automática**.
-
-Nuestra propuesta busca avanzar hacia un sistema que siga el siguiente proceso:
-
-**Detección → Seguimiento → Predicción → Evaluación de riesgo → Priorización → Alerta háptica**
-
-El objetivo principal no sería advertir al usuario sobre todos los objetos presentes en su entorno, sino identificar cuáles representan realmente un **riesgo potencial de colisión**.
-
-Por ejemplo:
-
-- Pared a **1,5 m** a la derecha → riesgo bajo si el usuario no se dirige hacia ella.
-- Persona quieta a **2 m** delante → riesgo medio.
-- Persona acercándose rápidamente desde la izquierda → **riesgo alto**.
-- Persona caminando detrás en la misma dirección → riesgo bajo.
-
-En este escenario, el dispositivo debería priorizar únicamente la alerta correspondiente al objeto que se aproxima desde la izquierda, evitando generar múltiples vibraciones innecesarias que puedan saturar al usuario.
 
 
+# REFERENCIAS BIBLIOGRÁFICAS
 
+## Formato Vancouver
 
+1. Zhu Z, Ro T, Ai L, Khoo W, Molina E, Palmer F. Wearable navigation assistance for the vision-impaired. United States patent US20140184384A1. 2014 Jul 3. Disponible en: https://patents.google.com/patent/US20140184384A1/en
+
+2. Anantha S. Wearable navigation system for the visually impaired. United States patent US10900788B2. 2021 Jan 26. Disponible en: https://patents.google.com/patent/US10900788B2/en
+
+3. Solomon L, Solomon D. Stereophonic apparatus for blind and visually-impaired people. European patent EP3924873A1. 2021 Dec 22. Disponible en: https://patents.google.com/patent/EP3924873A1/en
+
+4. Plikynas D, Daniusis P, Gudauskis M, Zvironas A, Indriulionis A. Hands-free crowd sourced indoor navigation system and method for guiding blind and visually impaired persons. United States patent US20230050825A1. 2023 Feb 16. Disponible en: https://patents.google.com/patent/US20230050825A1/en
+
+5. Parra Farfán M. Diseño de dispositivo basado en ultrasonido para desplazamiento de personas en condición de discapacidad visual [tesis en Internet]. Lima: Pontificia Universidad Católica del Perú; 2015 [citado 2 sep 2026]. Disponible en: http://hdl.handle.net/20.500.12404/6041
+
+6. Fernandez Llontop RJ. Bastón sensorial geolocalizador inteligente para apoyar en el desplazamiento de personas invidentes en la Organización Regional de Ciegos del Perú – Chiclayo [tesis en Internet]. Chiclayo: Universidad Católica Santo Toribio de Mogrovejo; 2021 [citado 2 sep 2026]. Disponible en: https://hdl.handle.net/20.500.12423/3213
+
+7. Cayambe Gamarra FA. Diseño e implementación de un prototipo de ubicación espacial para personas con discapacidad visual mediante IoT [tesis en Internet]. Universidad Politécnica Salesiana; 2025 [citado 2 sep 2026]. Disponible en: https://dspace.ups.edu.ec/handle/123456789/30245
+
+8. World Health Organization. Blindness and vision impairment [Internet]. Geneva: World Health Organization; [citado 2 sep 2026]. Disponible en: https://www.who.int/news-room/fact-sheets/detail/blindness-and-visual-impairment
+
+9. Brodhead A. Stanford researchers build $400 self-navigating smart cane [Internet]. Stanford: Stanford Institute for Human-Centered Artificial Intelligence; 2021 Oct 13 [citado 2 sep 2026]. Disponible en: https://hai.stanford.edu/news/stanford-researchers-build-400-self-navigating-smart-cane
+
+10. Universidad Antonio Ruiz de Montoya. Exitosa destaca proyecto de Ingeniería Industrial UARM para personas con discapacidad visual [Internet]. Lima: Universidad Antonio Ruiz de Montoya; [citado 2 sep 2026]. Disponible en: https://www.uarm.edu.pe/noticia/exitosa-destaca-proyecto-de-ingenieria-industrial-uarm-para-personas-con-discapacidad-visual/
+
+11. van Erp JBF, Kroon LCM, Mioch T, Paul KI. Obstacle detection display for visually impaired: coding of direction, distance, and height on a vibrotactile waist band. Front ICT. 2017;4:23. doi:10.3389/fict.2017.00023
+
+12. Shen J, Chen Y, Sawada H. A wearable assistive device for blind pedestrians using real-time object detection and tactile presentation. Sensors (Basel). 2022;22(12):4537. doi:10.3390/s22124537
+
+13. Kozlov T, Trandofilov A, Gazaryan G, Tokmurziyev I, Cabrera MA, Tsetserukou D. GuideTouch: an obstacle avoidance device for visually impaired. In: Companion Proceedings of the ACM/IEEE International Conference on Human-Robot Interaction; 2026. Disponible en: https://www.researchgate.net/publication/399956302_GuideTouch_An_Obstacle_Avoidance_Device_for_Visually_Impaired
+
+14. iF Design. WeWALK Smart Cane 2 [Internet]. WeWALK Limited; [citado 2 sep 2026]. Disponible en: https://ifdesign.com/es/winner-ranking/project/wewalk-smart-cane-2/676885
+
+15. biped.ai. NOA: wearable navigation device for people with visual impairment [Internet]. [citado 2 sep 2026]. Disponible en: https://www.biped.ai/
+
+16. Glidance. Glide: intelligent guide aid for blind and low vision users [Internet]. [citado 2 sep 2026]. Disponible en: https://www.glidance.io/
+
+---
+
+## Ejemplo de citas dentro del texto
+
+Los sistemas de asistencia para personas con discapacidad visual pueden utilizar sensores distribuidos sobre el cuerpo para detectar obstáculos y comunicar su proximidad mediante vibraciones (1).
+
+Otros dispositivos combinan cámaras, sensores de distancia e inteligencia artificial para obtener una representación más completa del entorno (2,3).
+
+El uso de sensores ultrasónicos también ha demostrado ser una alternativa viable para detectar obstáculos a distancias de aproximadamente 2,50 m (5).
+
+La retroalimentación vibrotáctil permite comunicar información sobre la dirección, distancia y altura de los obstáculos, aunque transmitir demasiada información simultáneamente puede generar sobrecarga para el usuario (11).
+
+Los sistemas más recientes incorporan detección de objetos mediante inteligencia artificial y señales táctiles para proporcionar información del entorno en tiempo real (12).
+
+GuideTouch utiliza sensores Time-of-Flight y actuadores vibrotáctiles para comunicar la dirección de obstáculos mediante señales corporales (13).
+
+---
+
+> **Nota:** En Vancouver, las referencias se numeran según el orden en que aparecen por primera vez en el texto. Por lo tanto, si citas primero a van Erp et al., esa referencia debería convertirse en la número 1, aunque actualmente figure como número 11.
 
