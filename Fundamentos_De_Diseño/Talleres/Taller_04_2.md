@@ -53,7 +53,7 @@
 | 9/9/26 | E | **ERGONOMÍA:** El dispositivo debe ser ligero, cómodo y fácil de colocar y retirar. El sistema de sujeción debe adaptarse a diferentes usuarios y prendas sin limitar el movimiento ni generar molestias durante el desplazamiento. [4], [5] | **Y** |
 | 9/9/26 | E | **FABRICACIÓN:** El sistema debe incorporar componentes y estructuras fabricadas mediante impresión 3D cuando corresponda, utilizando un máximo de 1 kg de filamento. | **M** |
 | 9/9/26 | E | **CONTROL DE CALIDAD:** Realizar pruebas de sensores, alertas, comunicación, detección de posibles caídas, alimentación, autonomía y resistencia del ensamblaje. [1], [2], [3], [4] | **S** |
-| 9/9/26 | E | **MONTAJE:** Los sensores y componentes electrónicos deben quedar firmemente sujetos al chaleco y protegidos. Su distribución debe facilitar el funcionamiento y mantenimiento del sistema. | **M** |
+| 9/9/26 | E | **MONTAJE:** Los sensores, vibradores, batería y demás componentes deben quedar firmemente sujetos y protegidos dentro del módulo.. | **M** |
 | 9/9/26 | E | **TRANSPORTE:** El chaleco debe ser compacto y fácil de transportar, protegiendo sus componentes electrónicos durante el traslado. [4], [5] | **S** |
 | 9/9/26 | E | **USO:** Debe poder colocarse y retirarse fácilmente, permitiendo el uso cotidiano mientras el usuario recibe alertas mediante un auricular abierto. [4], [5] | **Y** |
 | 9/9/26 | E | **MANTEMINIEMTO:** El diseño debe permitir acceder a los sensores, batería y componentes electrónicos para realizar mantenimiento o reemplazos sin desmontar completamente el dispositivo. | **M** |
