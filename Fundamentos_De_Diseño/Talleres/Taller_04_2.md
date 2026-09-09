@@ -46,7 +46,7 @@
 | 9/9/26 | E | **ELECTRONICA (Hardware):** El sistema sera contralado por un ESP32 DevKit V1 con la intencion de poder enviar datos por vía Wi-fi o Bluethoot a algun dispositivo, como fuentes base del proyecto se usaran los sensores HC-SR04 (medidor de proximidad), VL53L1X (mide desniveles, escalones o peldaños), MPU6050 (Detecta movimientops bruscos como caidas o choques); estos sensores tendran como finalidad prevenir caidas y brindar un mayor apoyo a personas con discapacidad | **J** |
 |  |  | [2], [3], [4] |  |
 |  |  | **SOFTWARE:** Para el trabajo en conjunto de los sensores y el ESP32 DevKit V1 se plantea usar al plataforma ARDUINO IDE usando como lenguaje C++ | **S** |
-|  |  | La información extraida de los sensores se debera mandar hacia una pagina web o aplicacion en donde se almacenaran, y se podra realizar un monitoreo a el usuario que la este portando. () |  |
+|  |  | La información extraida de los sensores se debera mandar hacia una pagina web o aplicacion en donde se almacenaran, y se podra realizar un monitoreo a el usuario que la este portando. |  |
 |  |  | Debe reducir alertas innecesarias y detectar patrones asociados a posibles caídas. [1], [2], [3], [4], [5] | **D** |
 |  |  | **COMUNICACIONES:** Permitir la comunicación inalámbrica entre el módulo, el teléfono inteligente y el auricular para transmitir alertas y enviar información de posibles emergencias al contacto responsable. [2], [4] | **M** |
 | 9/9/26 | E | **SEGURIDAD:** No debe representar riesgos físicos o eléctricos para el usuario. Los componentes deben estar protegidos y correctamente aislados. | **S** |
