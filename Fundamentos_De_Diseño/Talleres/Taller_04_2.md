@@ -35,7 +35,7 @@
 |  | E | Los sensores deben cubrir principalmente las zonas frontal, izquierda y derecha de la trayectoria del usuario. | **J** |
 |  | D | Su diseño debe ser discreto, ligero y apropiado para el uso cotidiano. [3], [4] | **Y** |
 | 9/9/26 | E | **CINEMÁTICA:** El sistema debe realizar mediciones continuamente mientras el usuario se desplaza. Las alertas deben actualizarse según los cambios en la distancia de los obstáculos y el movimiento del usuario. [2], [3] | **J** |
-| 9/9/26 | E | **FUERZAS:** El chaleco y sus componentes deben soportar movimientos cotidianos como caminar, sentarse y levantarse, manteniendo los componentes firmemente sujetos. | **M** |
+| 9/9/26 | E | **FUERZAS:** El dispositivo y su sistema de sujeción deben soportar movimientos cotidianos como caminar, sentarse y levantarse, manteniendo los componentes firmemente sujetos. | **M** |
 | 9/9/26 | E | **MATERIA:** *Entrada:* Entorno del usuario, distancias de obstáculos y datos de movimiento. | **S** |
 |  | | *Salida:* Información procesada, alertas auditivas y, ante un posible incidente, información para el contacto responsable mediante una app o plataforma digital. [1], [3], [4], [5] | **M** |
 | 9/9/26 | E | **ENERGÍA:** Utilizar una batería portátil, recargable y de bajo consumo que permita el funcionamiento durante una jornada de uso razonable. [2] | **J** |
@@ -46,7 +46,7 @@
 | 9/9/26 | E | **ELECTRONICA (Hardware):** El sistema sera contralado por un ESP32 DevKit V1 con la intencion de poder enviar datos por vía Wi-fi o Bluethoot a algun dispositivo, como fuentes base del proyecto se usaran los sensores HC-SR04 (medidor de proximidad), VL53L1X (mide desniveles, escalones o peldaños), MPU6050 (Detecta movimientops bruscos como caidas o choques); estos sensores tendran como finalidad prevenir caidas y brindar un mayor apoyo a personas con discapacidad | **J** |
 |  |  | [2], [3], [4] |  |
 |  |  | **SOFTWARE:** Para el trabajo en conjunto de los sensores y el ESP32 DevKit V1 se plantea usar al plataforma ARDUINO IDE usando como lenguaje C++ | **S** |
-|  |  | La información extraida de los sensores se debera mandar hacia una pagina web o aplicacion en donde se almacenaran, y se podra realizar un monitoreo a el usuario que la este portando () |  |
+|  |  | La información extraida de los sensores se debera mandar hacia una pagina web o aplicacion en donde se almacenaran, y se podra realizar un monitoreo a el usuario que la este portando. () |  |
 |  |  | Debe reducir alertas innecesarias y detectar patrones asociados a posibles caídas. [1], [2], [3], [4], [5] | **D** |
 |  |  | **COMUNICACIONES:** Permitir la comunicación inalámbrica entre el módulo, el teléfono inteligente y el auricular para transmitir alertas y enviar información de posibles emergencias al contacto responsable. [2], [4] | **M** |
 | 9/9/26 | E | **SEGURIDAD:** No debe representar riesgos físicos o eléctricos para el usuario. Los componentes deben estar protegidos y correctamente aislados. | **S** |
