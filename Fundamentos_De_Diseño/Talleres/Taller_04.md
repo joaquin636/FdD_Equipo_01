@@ -2,31 +2,6 @@
 
 ## PATENTE 1
 
-### Sistema inteligente de asistencia para personas con discapacidad visual basado en tecnología de detección heterogénea de múltiples fuentes distribuidas
-
-| **CAMPO** | **INFORMACIÓN** |
-|---|---|
-| **TÍTULO** | SISTEMA INTELIGENTE DE ASISTENCIA PARA PERSONAS CON DISCAPACIDAD VISUAL BASADO EN TECNOLOGÍA DE DETECCIÓN HETEROGÉNEA DE MÚLTIPLES FUENTES DISTRIBUIDAS |
-| **N° PUBLICACIÓN** | [CN210091198U](https://worldwide.espacenet.com/patent/search?q=pn%3DCN210091198U) |
-| **IPC** | A61H3/06 ; G06K9/00 ; G06T7/70 |
-| **SOLICITANTE** | UNIVERSIDAD DE CHINA ORIENTAL NORMAL |
-| **INVENTORES** | XU HUNING; HU MENGHAN; LI QINGLI |
-| **FECHA DE PUBLICACIÓN** | 18/02/2020 |
-| **¿QUÉ APORTA A NUESTRO PROYECTO?** | Aporta la utilización de diferentes sensores distribuidos en dispositivos portátiles, incluyendo un chaleco, para detectar información del entorno y ayudar a las personas con discapacidad visual a evitar obstáculos. Sirve como antecedente para integrar sensores en una prenda de asistencia. |
-| **CARACTERÍSTICAS RELACIONADAS** | Chaleco, sensores de distancia, sensores infrarrojos, sensores ultrasónicos, cámaras, GPS, detección de obstáculos y sistema distribuido. |
-| **VALORES** | Inclusión, autonomía, seguridad, accesibilidad e innovación. |
-
-| **RESUMEN** | **IMÁGENES** |
-|---|---|
-| El modelo de utilidad describe un sistema inteligente de asistencia para personas con discapacidad visual basado en la detección distribuida mediante múltiples fuentes. El sistema incorpora diferentes dispositivos, entre ellos un dispositivo montado en la cabeza, un chaleco, una faja, una muñequera y un bastón. Utiliza diferentes sensores, como sensores infrarrojos, sensores ultrasónicos, cámaras y GPS, para obtener información del entorno. Los datos obtenidos permiten detectar obstáculos y proporcionar asistencia al usuario en diferentes escenarios. | <img width="1240" height="1754" alt="Drawings_pages-to-jpg-0001" src="https://github.com/user-attachments/assets/a6cd40c9-e70e-4273-a5ad-7d0c142a4655" />
- |
-
-🔗 [Ver patente en Espacenet](https://worldwide.espacenet.com/patent/search?q=pn%3DCN210091198U)
-
----
-
-## PATENTE 2
-
 ### Mochila de navegación y evitación de obstáculos para personas ciegas
 
 | **CAMPO** | **INFORMACIÓN** |
@@ -49,7 +24,7 @@
 
 ---
 
-## PATENTE 3
+## PATENTE 2
 
 ### Equipos de asistencia para caminar para personas con discapacidad visual
 
@@ -73,7 +48,7 @@
 
 ---
 
-## PATENTE 4
+## PATENTE 3
 
 ### Sistema de guía háptica
 
