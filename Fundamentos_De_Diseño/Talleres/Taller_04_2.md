@@ -10,7 +10,6 @@
 
 **Elaborado:** Equipo 1
 
-**Revisado:** …......
 
 ---
 
@@ -76,3 +75,7 @@
 
 5. Hamzeh Alashhab SR. Aplicaciones de visión artificial para ayuda a personas con dificultades visuales [tesis doctoral]. Universidad de Alicante [Internet]. 2022 [citado 2026]. Disponible en:
    https://rua.ua.es/entities/publication/162679e1-c5dd-4986-ba1e-3bfc306f8c11
+
+## Link de Excel
+https://docs.google.com/spreadsheets/d/1KrW1ztge1BrBlUoDwJg6BIqNrUmovyqC/edit?gid=2019914786#gid=2019914786
+
