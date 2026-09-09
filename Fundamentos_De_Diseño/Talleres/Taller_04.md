@@ -18,7 +18,9 @@
 
 | **RESUMEN** | **IMÁGENES** |
 |---|---|
-| El modelo de utilidad describe una mochila de navegación para personas ciegas que incorpora un sistema de evitación de obstáculos. El dispositivo cuenta con una placa de control, un detector de distancia y un vibrador. El detector identifica la distancia entre el usuario y los obstáculos o peatones ubicados delante de él y transmite esta información a la placa de control. Cuando se detecta un posible obstáculo, el vibrador proporciona una señal al usuario para advertirle y permitirle evitar una colisión, mejorando así su seguridad durante el desplazamiento. | |
+| El modelo de utilidad describe una mochila de navegación para personas ciegas que incorpora un sistema de evitación de obstáculos. El dispositivo cuenta con una placa de control, un detector de distancia y un vibrador. El detector identifica la distancia entre el usuario y los obstáculos o peatones ubicados delante de él y transmite esta información a la placa de control. Cuando se detecta un posible obstáculo, el vibrador proporciona una señal al usuario para advertirle y permitirle evitar una colisión, mejorando así su seguridad durante el desplazamiento. |<img width="2479" height="3508" alt="image" src="https://github.com/user-attachments/assets/330fbdee-73e2-4840-a616-d380773fb79a" />  <img width="2479" height="3508" alt="image" src="https://github.com/user-attachments/assets/f240a279-6ef5-486f-b9a4-299bf2bbd939" />
+
+ |
 
 🔗 [Ver patente en Espacenet](https://worldwide.espacenet.com/patent/search?q=pn%3DCN215607427U)
 
