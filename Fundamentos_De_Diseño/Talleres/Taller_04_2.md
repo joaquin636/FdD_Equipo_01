@@ -30,7 +30,7 @@
 
 | Fecha (cambios) | Deseo o Exigencia | DESCRIPCIÓN | Responsable |
 |---|---|---|:---:|
-| 9/9/26 | E | **FUNCIÓN PRINCIPAL:** Detectar obstáculos y situaciones de riesgo en el entorno del usuario, indicando su proximidad y dirección mediante alertas auditivas para favorecer un desplazamiento más seguro y autónomo. [1], [3], [4], [5] | **D** |
+| 9/9/26 | E | **FUNCIÓN PRINCIPAL:** Detectar obstáculos y situaciones de riesgo en el entorno del usuario, indicando su proximidad y dirección mediante alertas auditivas para favorecer un desplazamiento más seguro y autónomo. [1], [3], [4], [5] | **TODOS** |
 | 9/9/26 | E | **GEOMETRÍA:** El dispositivo debe ser compacto y adaptable, permitiendo su colocación en diferentes prendas mediante un sistema de sujeción. | **Y** |
 |  | E | Los sensores deben cubrir principalmente las zonas frontal, izquierda y derecha de la trayectoria del usuario. | **J** |
 |  | D | Su diseño debe ser discreto, ligero y apropiado para el uso cotidiano. [3], [4] | **Y** |
