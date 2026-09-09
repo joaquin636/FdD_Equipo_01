@@ -36,8 +36,8 @@
 |  | D | Su diseño debe ser discreto, ligero y apropiado para el uso cotidiano. [3], [4] | **Y** |
 | 9/9/26 | E | **CINEMÁTICA:** El sistema debe realizar mediciones continuamente mientras el usuario se desplaza. Las alertas deben actualizarse según los cambios en la distancia de los obstáculos y el movimiento del usuario. [2], [3] | **J** |
 | 9/9/26 | E | **FUERZAS:** El chaleco y sus componentes deben soportar movimientos cotidianos como caminar, sentarse y levantarse, manteniendo los componentes firmemente sujetos. | **M** |
-| 9/9/26 | E | **MATERIA:** Entrada: Entorno del usuario, distancias de obstáculos y datos de movimiento. | **S** |
-|  |  | Salida: Información procesada, alertas auditivas y, ante un posible incidente, información para el contacto responsable. [1], [3], [4], [5] | **M** |
+| 9/9/26 | E | **MATERIA:** *Entrada:* Entorno del usuario, distancias de obstáculos y datos de movimiento. | **S** |
+|  | *Salida:* Información procesada, alertas auditivas y, ante un posible incidente, información para el contacto responsable. [1], [3], [4], [5] | **M** |
 | 9/9/26 | E | **ENERGÍA:** Utilizar una batería portátil, recargable y de bajo consumo que permita el funcionamiento durante una jornada de uso razonable. [2] | **J** |
 | 9/9/26 |  | **SEÑALES:** Entradas: Señal de encendido y apagado, señales de los sensores de distancia e IMU. | **J** |
 |  | E | Salidas: Detección, dirección, proximidad, alertas auditivas y estado del sistema. | **D** |
