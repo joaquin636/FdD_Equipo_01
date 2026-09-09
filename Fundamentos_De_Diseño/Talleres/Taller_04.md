@@ -18,7 +18,8 @@
 
 | **RESUMEN** | **IMÁGENES** |
 |---|---|
-| El modelo de utilidad describe un sistema inteligente de asistencia para personas con discapacidad visual basado en la detección distribuida mediante múltiples fuentes. El sistema incorpora diferentes dispositivos, entre ellos un dispositivo montado en la cabeza, un chaleco, una faja, una muñequera y un bastón. Utiliza diferentes sensores, como sensores infrarrojos, sensores ultrasónicos, cámaras y GPS, para obtener información del entorno. Los datos obtenidos permiten detectar obstáculos y proporcionar asistencia al usuario en diferentes escenarios. | |
+| El modelo de utilidad describe un sistema inteligente de asistencia para personas con discapacidad visual basado en la detección distribuida mediante múltiples fuentes. El sistema incorpora diferentes dispositivos, entre ellos un dispositivo montado en la cabeza, un chaleco, una faja, una muñequera y un bastón. Utiliza diferentes sensores, como sensores infrarrojos, sensores ultrasónicos, cámaras y GPS, para obtener información del entorno. Los datos obtenidos permiten detectar obstáculos y proporcionar asistencia al usuario en diferentes escenarios. | <img width="1240" height="1754" alt="Drawings_pages-to-jpg-0001" src="https://github.com/user-attachments/assets/a6cd40c9-e70e-4273-a5ad-7d0c142a4655" />
+ |
 
 🔗 [Ver patente en Espacenet](https://worldwide.espacenet.com/patent/search?q=pn%3DCN210091198U)
 
