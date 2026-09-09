@@ -59,3 +59,20 @@
 | 9/9/26 | E | **MANTEMINIEMTO:** El diseño debe permitir acceder a los sensores, batería y componentes electrónicos para realizar mantenimiento o reemplazos sin desmontar completamente el dispositivo. | **M** |
 | 9/9/26 | E | **COSTOS:** Mantener una relación adecuada entre funcionalidad, calidad y costo, priorizando componentes accesibles sin comprometer la seguridad ni el funcionamiento. [2] | **D** |
 | 9/9/26 | E | **PLAZOS:** El proyecto inició el miércoles 19 de agosto de 2026 y se espera su finalización durante el mes de diciembre de 2026. | **J** |
+
+## Referencias bibliográficas
+
+1. Ji H, Mendonça I, Aritsugi M. Multi-Scene Dataset and Object Detector for Outside Blind Individual Identification. *IEEE Access* [Internet]. 2026 [citado 2026]; 14: 1423-1438. Disponible en:
+   https://ieeexplore.ieee.org/document/11317963
+
+2. Alfikri MD, Kaliski R. Real-Time Pedestrian Detection on IoT Edge Devices: A Lightweight Deep Learning Approach. *arXiv* [Internet]. 2024 [citado 2025]. Disponible en:
+   https://arxiv.org/abs/2409.15740
+
+3. Leong X, Kanesaraj Ramasamy R. Obstacle Detection and Distance Estimation for Visually Impaired People. *IEEE Access* [Internet]. 2023 [citado 2025]; 11: 136609-136629. Disponible en:
+   https://ieeexplore.ieee.org/document/10336791
+
+4. Balboa Trigo PA. Sistema de asistencia para personas con discapacidad visual basado en visión por computadora [tesis]. Centro de Investigación Científica y de Educación Superior de Ensenada [Internet]. 2020 [citado 2026]. Disponible en:
+   https://cicese.repositorioinstitucional.mx/jspui/bitstream/1007/3362/1/Tesis_Pablo%20Alberto%20Balboa%20Trigo_20%20nov%202020.pdf
+
+5. Hamzeh Alashhab SR. Aplicaciones de visión artificial para ayuda a personas con dificultades visuales [tesis doctoral]. Universidad de Alicante [Internet]. 2022 [citado 2026]. Disponible en:
+   https://rua.ua.es/entities/publication/162679e1-c5dd-4986-ba1e-3bfc306f8c11
