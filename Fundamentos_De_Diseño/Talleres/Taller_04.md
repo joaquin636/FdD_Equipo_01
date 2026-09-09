@@ -8,7 +8,6 @@
 |---|---|
 | **TÍTULO** | MOCHILA DE NAVEGACIÓN Y EVITACIÓN DE OBSTÁCULOS PARA PERSONAS CIEGAS |
 | **N° PUBLICACIÓN** | [CN215607427U](https://worldwide.espacenet.com/patent/search?q=pn%3DCN215607427U) |
-| **IPC** | A61H3/06 ; G01S15/93 |
 | **SOLICITANTE** | GUANGZHOU HEIJIA TECH CO LTD |
 | **INVENTOR** | DONG HANLIN |
 | **FECHA DE PUBLICACIÓN** | 25/01/2022 |
@@ -32,7 +31,6 @@
 | -------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | **TÍTULO** | SISTEMA INTELIGENTE DE ASISTENCIA PARA PERSONAS CON DISCAPACIDAD VISUAL BASADO EN TECNOLOGÍA DE DETECCIÓN HETEROGÉNEA DE MÚLTIPLES FUENTES DISTRIBUIDAS |
 | **N° PUBLICACIÓN** | [CN210091198U](https://worldwide.espacenet.com/patent/search?q=pn%3DCN210091198U) |
-| **IPC** | A61H3/06 ; G06K9/00 ; G06T7/70 |
 | **SOLICITANTE** | UNIVERSIDAD DE CHINA ORIENTAL NORMAL |
 | **INVENTORES** | XU HUNING; HU MENGHAN; LI QINGLI |
 | **FECHA DE PUBLICACIÓN** | 18/02/2020 |
@@ -58,7 +56,6 @@
 | **N° PUBLICACIÓN** | [WO2023151351A1](https://worldwide.espacenet.com/patent/search?q=pn%3DWO2023151351A1) |
 | **SOLICITANTE / TITULAR** | AI GUIDED LTD |
 | **INVENTORES** | KA WAI KONG; HIU LING CHAN |
-| **FECHA DE PRIORIDAD** | 11/02/2022 |
 | **FECHA DE PUBLICACIÓN** | 17/08/2023 |
 | **¿QUÉ APORTA A NUESTRO PROYECTO?** | Es uno de los antecedentes más cercanos a nuestra propuesta porque combina percepción del entorno, visión artificial, planificación de rutas y múltiples actuadores hápticos colocados sobre el cuerpo. Permite comunicar al usuario mediante vibraciones qué dirección se encuentra libre de obstáculos. |
 | **CARACTERÍSTICAS RELACIONADAS** | Sistema wearable, visión artificial, detección de obstáculos, planificación de trayectoria, actuadores hápticos, torso, extremidades y navegación. |
@@ -66,7 +63,7 @@
 
 | **RESUMEN** | **IMÁGENES** |
 |---|---|
-| La patente describe un sistema de asistencia a la movilidad que incorpora un dispositivo electrónico portátil encargado de analizar el entorno. El sistema emplea técnicas de visión artificial para detectar obstáculos y puede calcular una trayectoria que permita evitarlos. La información obtenida se comunica mediante una unidad háptica compuesta por varios actuadores que estimulan diferentes zonas del torso o de las extremidades. Según el actuador que se active, el usuario puede interpretar la dirección más segura hacia la cual desplazarse. | |
+| La patente describe un sistema de asistencia a la movilidad que incorpora un dispositivo electrónico portátil encargado de analizar el entorno. El sistema emplea técnicas de visión artificial para detectar obstáculos y puede calcular una trayectoria que permita evitarlos. La información obtenida se comunica mediante una unidad háptica compuesta por varios actuadores que estimulan diferentes zonas del torso o de las extremidades. Según el actuador que se active, el usuario puede interpretar la dirección más segura hacia la cual desplazarse. |<img width="637" height="1069" alt="image" src="https://github.com/user-attachments/assets/e378f38e-d8af-485c-8e5a-79d96d681cb6" /> <img width="2550" height="3300" alt="image" src="https://github.com/user-attachments/assets/584e6603-a255-4b33-9626-59a210acba5a" />|
 
 🔗 [Ver patente en Espacenet](https://worldwide.espacenet.com/patent/search?q=pn%3DWO2023151351A1)
 
