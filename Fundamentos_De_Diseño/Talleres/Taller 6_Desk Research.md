@@ -137,7 +137,7 @@ La arquitectura funcional común consiste en captar información del entorno, pr
 
 ## Enlaces de las fuentes
 
-- **[1] INEI — publicación de los Censos Nacionales 2017:** referencia impresa consignada en el informe; no se incluyó un enlace.
+- **[1] INEI — publicación de los Censos Nacionales 2017:** https://censo2017.inei.gob.pe/inei-difunde-base-de-datos-de-los-censos-nacionales-2017-y-el-perfil-sociodemografico-del-peru/
 - **[2] OMS — discapacidad visual y ceguera:** https://www.who.int/es/news-room/fact-sheets/detail/blindness-and-visual-impairment
 - **[3] Metaanálisis sobre caídas:** https://doi.org/10.1371/journal.pone.0302428
 - **[4] Dispositivo wearable con presentación táctil:** https://doi.org/10.3390/s22124537
