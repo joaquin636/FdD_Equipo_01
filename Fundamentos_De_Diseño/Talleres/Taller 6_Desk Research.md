@@ -28,9 +28,8 @@
 |---|---|---|---|---|---|---|---|---|---|
 | 11 | Información institucional sobre salud visual y pérdida de visión | Organización Mundial de la Salud — OMS | s. f. | [25] | Describe la discapacidad visual y la importancia de la rehabilitación y los productos de apoyo para la autonomía. | Complementar las ayudas de movilidad y considerar las necesidades de las personas con discapacidad visual. | La información institucional no valida el desempeño de un chaleco específico. | Apoyar la movilidad y autonomía del usuario. | Plantear el chaleco como una ayuda complementaria al bastón y priorizar señales que permitan mantener la percepción de los sonidos del entorno. |
 
-**Nota:** Las aplicaciones al proyecto son propuestas de diseño derivadas del análisis de las fuentes. Su desempeño deberá comprobarse mediante pruebas del prototipo. La consulta de una norma no equivale a una certificación.
 
-## Referencias bibliográficas — formato Vancouver
+## Referencias bibliográficas
 
 [16] Moncada Hernandez RH, Canaca Matamoros DM, Cáceres Lagos FL. Wearable obstacle detection system: enhancing indoor navigation for individuals with visual impairments. LACCEI. 2025;1(12). doi:10.18687/LACCEI2025.1.1.2028.
 
