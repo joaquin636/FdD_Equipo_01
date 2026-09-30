@@ -1,68 +1,154 @@
-# Matriz de Desk Research: chaleco inteligente
+# Desk Research
+## Chaleco inteligente para asistencia en la movilidad de personas con discapacidad visual
 
-**Proyecto:** Chaleco inteligente para apoyar la movilidad de personas con discapacidad visual.
 
-## 1. Investigaciones científicas y desarrollos tecnológicos
+## I. Definir el problema técnico
+
+Las personas con discapacidad visual pueden enfrentar dificultades para identificar oportunamente obstáculos durante sus desplazamientos, especialmente cuando estos se encuentran en diferentes direcciones o alturas. Para nuestro proyecto, el problema se centra en obtener información sobre la ubicación y proximidad de los obstáculos y comunicarla de manera comprensible para el usuario.
+
+La relevancia de esta problemática se sustenta en los antecedentes del informe. Los Censos Nacionales 2017 registraron 3 051 612 personas con alguna discapacidad en el Perú [1]. A escala mundial, la OMS estima que al menos 2 200 millones de personas presentan deterioro de la visión cercana o lejana [2]. Asimismo, un metaanálisis de 35 estudios estimó una prevalencia global agrupada de caídas de 17,7 % en personas con baja visión [3]. Este último dato corresponde a estudios internacionales y no representa una tasa específica del Perú.
+
+**Problema técnico:**
+
+Detectar obstáculos en diferentes sectores del entorno inmediato, estimar su ubicación y proximidad y transformar esa información en alertas hápticas interpretables, sin generar una carga excesiva para el usuario.
+
+El chaleco se plantea como una ayuda complementaria a las estrategias de orientación y a las ayudas de movilidad existentes.
+
+## II. Delimitar el foco de búsqueda
+
+La búsqueda se organiza en cinco subtemas:
+
+| N.º | Subtema | Información que se busca |
+|---|---|---|
+| 1 | Detección de obstáculos | Principios de detección, alcance, cobertura frontal y lateral y limitaciones de las tecnologías existentes. |
+| 2 | Estimación de proximidad y dirección | Métodos para obtener información sobre distancia y sector de ubicación del obstáculo. |
+| 3 | Comunicación háptica | Patrones de vibración para representar dirección y proximidad sin sobrecargar al usuario. |
+| 4 | Integración corporal y energía | Configuraciones portátiles, ubicación de módulos, fijación y necesidades de alimentación. |
+| 5 | Control y comunicación del estado | Procesamiento de mediciones, generación de alertas e información sobre el funcionamiento del sistema. |
+
+Se consideran fuentes institucionales, productos comerciales, patentes, artículos científicos y tesis de repositorios. La información se analiza según su aporte funcional y sus limitaciones para el chaleco.
+
+## III. Identificar el estado de la tecnología
+
+### 3.1. Productos comerciales
+
+WeWALK Smart Cane 2 integra detección de obstáculos y herramientas de navegación en un bastón [6]. NOA utiliza una configuración corporal sobre los hombros y cámaras para percibir el entorno [7]. Glide incorpora percepción y asistencia sobre la dirección del desplazamiento [8].
+
+Estos productos permiten distinguir diferentes estrategias: comunicar información para que el usuario decida, integrar la detección en un dispositivo corporal o intervenir físicamente en el desplazamiento. Nuestro proyecto prioriza comunicar información mediante alertas hápticas.
+
+### 3.2. Patentes
+
+La patente CN215607427U presenta una mochila con detección de distancia y respuesta vibratoria [9]. CN210091198U describe un sistema de asistencia con detección distribuida mediante dispositivos portátiles, entre ellos un chaleco [10]. WO2023151351A1 plantea una guía háptica con percepción del entorno y actuadores distribuidos en el cuerpo [11].
+
+Estos antecedentes orientan la distribución corporal de los elementos de detección y la transformación de información espacial en señales táctiles. La descripción de una patente no demuestra por sí sola el desempeño de nuestro prototipo.
+
+### 3.3. Artículos científicos y tesis
+
+Shen et al. desarrollaron un dispositivo con detección de objetos y presentación táctil. Reportaron 96 % de precisión para reconocer la posición izquierda o derecha de un obstáculo estacionario en sus condiciones experimentales [4].
+
+Van Erp et al. estudiaron la representación de dirección, distancia y altura mediante una banda vibrotáctil. Identificaron que combinar demasiados parámetros puede generar sobrecarga informativa [12].
+
+Las tesis revisadas incluyen detección ultrasónica, integración de localización y dispositivos corporales con respuestas táctiles y auditivas [13-15]. Constituyen antecedentes para comparar principios de funcionamiento, sin asumir que sus resultados se reproducirán automáticamente en el chaleco.
+
+### 3.4. Síntesis
+
+La arquitectura funcional común consiste en captar información del entorno, procesarla y comunicarla mediante estímulos no visuales. Para nuestro proyecto se priorizan:
+
+- Detectar obstáculos en sectores frontal, izquierdo y derecho.
+- Estimar su proximidad.
+- Comunicar dirección y proximidad mediante patrones hápticos simples.
+- Mantener sujetos y protegidos los componentes.
+- Suministrar energía a las funciones principales.
+- Gestionar mediciones inválidas e informar el estado del sistema.
+
+## IV. Elaborar la matriz de Desk Research
+
+### 4.1. Fuentes institucionales y contexto del problema
 
 | N.º | Fuente | Autor/Institución | Año | Referencia | Estado de tecnología encontrado | Exigencia o requisito identificado | Restricción o limitación | Función principal | Aplicación al proyecto |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | Artículo sobre un sistema portátil de detección de obstáculos | Moncada Hernandez RH, Canaca Matamoros DM, Cáceres Lagos FL | 2025 | [16] | Presenta un dispositivo integrado en gafas que utiliza sensores de tiempo de vuelo y señales vibratorias para informar sobre obstáculos. | Detectar obstáculos y transmitir su proximidad mediante señales perceptibles para el usuario. | La ubicación de los sensores en gafas difiere de su instalación en un chaleco; se debe evaluar la cobertura a distintas alturas. | Detectar obstáculos y comunicar su proximidad. | Evaluar la distribución de sensores en la parte frontal del chaleco y establecer niveles de vibración según la distancia. |
-| 2 | Artículo sobre señales hápticas y auditivas para la navegación | Skulimowski P, Strumiłło P, Trygar S | 2025 | [17] | Estudia la navegación mediante información de profundidad y señales hápticas y auditivas. | Comunicar la ubicación y distancia de los obstáculos mediante señales que puedan distinguirse durante el desplazamiento. | La interpretación de las señales requiere aprendizaje y evaluación con usuarios. | Transformar información del entorno en señales comprensibles. | Diseñar patrones de vibración sencillos para diferenciar obstáculos al frente, a la izquierda y a la derecha. |
-| 3 | Prepublicación sobre el dispositivo GuideTouch | Kozlov T et al. | 2026 | [24] | Propone un dispositivo de asistencia con retroalimentación táctil distribuida en la parte superior del cuerpo. | Diferenciar la dirección de un obstáculo mediante la ubicación de la señal táctil. | Es una prepublicación; sus resultados no demuestran por sí solos una reducción de accidentes en el contexto del proyecto. | Comunicar la dirección de los obstáculos. | Evaluar la ubicación de actuadores en zonas del chaleco donde las vibraciones puedan distinguirse claramente. |
-| 4 | Artículo sobre detección de caídas | Aziz O et al. | 2017 | [26] | Evalúa un algoritmo de detección de caídas mediante datos de sensores de movimiento y registros de caídas reales. | Evaluar la sensibilidad del sistema y la frecuencia de falsas alarmas si se incorpora la detección de caídas. | El desempeño depende de la posición del sensor, las actividades realizadas y las características de los usuarios. | Identificar eventos compatibles con una caída. | Considerar un sensor de movimiento como función complementaria y comprobar su desempeño antes de incorporarlo al diseño final. |
-| 5 | Artículo sobre detección de obstáculos y estimación de distancia | Leong X, Kanesaraj Ramasamy R | 2023 | [27] | Aborda tecnologías de visión artificial para detectar obstáculos y estimar distancias en dispositivos de asistencia. | Comparar las alternativas según precisión, tiempo de respuesta, consumo energético y cobertura. | El procesamiento de imágenes requiere recursos computacionales y puede depender de las condiciones del entorno. | Percibir obstáculos y estimar su distancia. | Comparar la visión artificial con sensores ultrasónicos o infrarrojos para seleccionar una alternativa viable para el chaleco. |
+| 1 | Perfil sociodemográfico del Perú: Censos Nacionales 2017 | INEI | 2018 | [1] | Aporta información sobre discapacidad en el Perú; no describe una tecnología. | Delimitar la población y justificar la relevancia del problema. | Los datos corresponden al censo de 2017 y no describen necesidades individuales de uso. | Sustentar el contexto del proyecto. | Utilizar los datos como antecedente nacional, diferenciando población con discapacidad y población con dificultad para ver. |
+| 2 | Discapacidad visual y ceguera | OMS | s. f. | [2] | Presenta información mundial sobre discapacidad visual; no evalúa el chaleco. | Considerar las necesidades de movilidad y la diversidad de condiciones visuales. | Las cifras globales no representan directamente la situación local. | Orientar el propósito de asistencia. | Plantear el chaleco como apoyo complementario para la movilidad. |
+| 3 | Objetivos de Desarrollo Sostenible | Naciones Unidas | s. f. | [5] | Proporciona un marco de inclusión y accesibilidad; no establece especificaciones técnicas del dispositivo. | Relacionar el proyecto con la reducción de barreras y la accesibilidad. | La relación con los ODS no demuestra un impacto social ya alcanzado. | Orientar la finalidad social del proyecto. | Vincular la propuesta con el ODS 10 y, de manera complementaria, con el ODS 11. |
 
-## 2. Normas y documentos técnicos
+### 4.2. Productos comerciales
 
 | N.º | Fuente | Autor/Institución | Año | Referencia | Estado de tecnología encontrado | Exigencia o requisito identificado | Restricción o limitación | Función principal | Aplicación al proyecto |
 |---|---|---|---|---|---|---|---|---|---|
-| 6 | IEC 60529: grados de protección de envolventes | Comisión Electrotécnica Internacional — IEC | 2013 | [18] | Establece la clasificación IP para la protección de envolventes frente al ingreso de sólidos y agua. | Definir la protección requerida para los componentes según la exposición prevista a polvo y agua. | No se puede declarar un grado IP sin realizar los ensayos correspondientes. | Proteger los componentes electrónicos. | Diseñar cubiertas para sensores, batería y circuito de control, considerando las condiciones de uso del chaleco. |
-| 7 | IEC 62133-2: seguridad de baterías portátiles de litio | Comisión Electrotécnica Internacional — IEC | 2021 | [19] | Establece requisitos de seguridad y ensayos para celdas y baterías secundarias portátiles de litio. | Incorporar medidas de protección y utilizar una batería y un sistema de carga adecuados. | Consultar la norma no demuestra la conformidad de la batería ni del prototipo completo. | Suministrar energía de manera segura. | Seleccionar la batería, proteger las conexiones y evaluar el calentamiento durante la carga y el funcionamiento. |
-| 8 | ISO 9241-920: interacción táctil y háptica | Organización Internacional de Normalización — ISO | 2024 | [20] | Proporciona orientación ergonómica para las interacciones táctiles y hápticas. | Diseñar señales vibratorias perceptibles y diferenciables para los usuarios previstos. | No establece una intensidad universal adecuada para todas las personas; se requieren pruebas con usuarios. | Comunicar información mediante el tacto. | Evaluar la intensidad, duración y ubicación de las vibraciones, especialmente para adultos mayores. |
-| 9 | Pautas de Accesibilidad para el Contenido Web, WCAG 2.2 | World Wide Web Consortium — W3C | 2024 | [21] | Establece criterios de accesibilidad para contenido e interfaces web. | Permitir el acceso mediante lectores de pantalla y teclado si el proyecto incorpora una interfaz web. | Su alcance corresponde al contenido web; no demuestra automáticamente la accesibilidad de una aplicación nativa o del chaleco. | Facilitar el acceso a información digital. | Aplicar los criterios pertinentes a una futura interfaz web de configuración o consulta del estado del dispositivo. |
-| 10 | ISO 21856: requisitos generales y métodos de ensayo para productos de apoyo | Organización Internacional de Normalización — ISO | 2022 | [22] | Presenta requisitos y métodos de ensayo para productos de apoyo considerados dispositivos médicos. | Considerar riesgos de uso, información al usuario, mantenimiento y seguridad cuando resulte aplicable. | Su aplicabilidad depende de la clasificación del producto y del contexto regulatorio; no debe asumirse automáticamente. | Orientar la seguridad y evaluación del producto de apoyo. | Utilizarla como referencia para revisar riesgos, instrucciones de uso y mantenimiento del chaleco. |
+| 4 | WeWALK Smart Cane 2 | WeWALK | s. f. | [6] | Integra detección de obstáculos y herramientas de navegación en un bastón. | Comunicar información útil durante el desplazamiento. | Su configuración en bastón difiere de una prenda corporal. | Detectar obstáculos y asistir la navegación. | Comparar la integración de funciones y plantear el chaleco como complemento de las ayudas habituales. |
+| 5 | NOA: manual de usuario | biped robotics | 2024 | [7] | Utiliza cámaras en un dispositivo corporal colocado sobre los hombros. | Distribuir la percepción del entorno sin ocupar las manos del usuario. | Su arquitectura y procesamiento no pueden trasladarse directamente al prototipo. | Percibir el entorno y comunicar información. | Estudiar la ubicación corporal de los módulos y su cobertura. |
+| 6 | Glide | Glidance | s. f. | [8] | Combina percepción del entorno con asistencia sobre la dirección del desplazamiento. | Definir si el sistema comunica información o interviene en la trayectoria. | Su mecanismo de guía física difiere del funcionamiento previsto del chaleco. | Asistir la dirección del desplazamiento. | Delimitar el alcance del chaleco hacia la emisión de alertas para que el usuario decida. |
 
-## 3. Fuente institucional
+### 4.3. Patentes
 
 | N.º | Fuente | Autor/Institución | Año | Referencia | Estado de tecnología encontrado | Exigencia o requisito identificado | Restricción o limitación | Función principal | Aplicación al proyecto |
 |---|---|---|---|---|---|---|---|---|---|
-| 11 | Información institucional sobre salud visual y pérdida de visión | Organización Mundial de la Salud — OMS | s. f. | [25] | Describe la discapacidad visual y la importancia de la rehabilitación y los productos de apoyo para la autonomía. | Complementar las ayudas de movilidad y considerar las necesidades de las personas con discapacidad visual. | La información institucional no valida el desempeño de un chaleco específico. | Apoyar la movilidad y autonomía del usuario. | Plantear el chaleco como una ayuda complementaria al bastón y priorizar señales que permitan mantener la percepción de los sonidos del entorno. |
+| 7 | Patente CN215607427U | Guangzhou Heijia Tech Co Ltd | 2022 | [9] | Describe una mochila de navegación con detección de distancia y respuesta vibratoria. | Transformar la proximidad detectada en una advertencia háptica. | La configuración de mochila difiere del chaleco; la patente no valida nuestro desempeño. | Detectar proximidad y emitir vibraciones. | Relacionar la medición de distancia con niveles de alerta. |
+| 8 | Patente CN210091198U | East China Normal University | 2020 | [10] | Describe detección distribuida mediante dispositivos portátiles, incluido un chaleco. | Captar información en diferentes sectores del entorno. | La integración de múltiples tecnologías puede aumentar la complejidad del sistema. | Obtener información distribuida del entorno. | Evaluar la distribución frontal y lateral de los módulos. |
+| 9 | Patente WO2023151351A1 | AI Guided Ltd | 2023 | [11] | Combina percepción del entorno, planificación de trayectoria y actuadores hápticos corporales. | Comunicar información direccional mediante distintas zonas de activación. | La planificación de trayectorias excede el alcance inicial del chaleco. | Transmitir indicaciones mediante estímulos hápticos. | Diseñar una correspondencia entre sector detectado y zona de vibración. |
 
+### 4.4. Investigaciones científicas
+
+| N.º | Fuente | Autor/Institución | Año | Referencia | Estado de tecnología encontrado | Exigencia o requisito identificado | Restricción o limitación | Función principal | Aplicación al proyecto |
+|---|---|---|---|---|---|---|---|---|---|
+| 10 | Metaanálisis sobre caídas en personas con baja visión | Ekemiri K et al. | 2024 | [3] | Aporta evidencia sobre caídas; no presenta un dispositivo de detección. | Considerar la seguridad durante la movilidad como parte del problema. | La prevalencia global no es una tasa del Perú ni demuestra que el chaleco reduzca caídas. | Sustentar la relevancia del problema. | Justificar el estudio de información oportuna sobre obstáculos sin prometer una reducción de accidentes no comprobada. |
+| 11 | Dispositivo wearable con detección de objetos y presentación táctil | Shen J, Chen Y, Sawada H | 2022 | [4] | Combina detección en tiempo real y presentación táctil; reporta 96 % de precisión para reconocer izquierda o derecha en obstáculos estacionarios. | Comunicar el sector del obstáculo mediante señales táctiles interpretables. | El resultado corresponde a las condiciones experimentales del estudio. | Detectar objetos y comunicar su posición. | Evaluar el reconocimiento de alertas para izquierda, frente y derecha. |
+| 12 | Codificación de obstáculos mediante una banda vibrotáctil | van Erp JBF, Kroon LCM, Mioch T, Paul KI | 2017 | [12] | Estudia la representación de dirección, distancia y altura mediante vibraciones. | Limitar la cantidad de información simultánea y utilizar patrones diferenciables. | La combinación de varios parámetros puede producir sobrecarga informativa. | Codificar información espacial mediante vibraciones. | Priorizar tres sectores y dos niveles de proximidad, verificando su interpretación. |
+
+### 4.5. Tesis de repositorios
+
+| N.º | Fuente | Autor/Institución | Año | Referencia | Estado de tecnología encontrado | Exigencia o requisito identificado | Restricción o limitación | Función principal | Aplicación al proyecto |
+|---|---|---|---|---|---|---|---|---|---|
+| 13 | Dispositivo basado en ultrasonido para el desplazamiento | Parra Farfán M / PUCP | 2014 | [13] | Presenta detección ultrasónica y reporta un alcance aproximado de 2,50 m. | Definir y comprobar el rango de detección del prototipo. | El alcance reportado depende del dispositivo y de sus condiciones de ensayo. | Detectar obstáculos mediante ultrasonido. | Utilizar el antecedente para orientar la meta de detección y realizar ensayos propios. |
+| 14 | Bastón sensorial geolocalizador | Fernandez Llontop RJ / USAT | 2021 | [14] | Integra detección de obstáculos y ubicación en un bastón. | Integrar funciones complementarias sin afectar la detección y las alertas. | La configuración física y el contexto de uso difieren del chaleco. | Detectar obstáculos y obtener ubicación. | Comparar la integración funcional y delimitar las funciones prioritarias del prototipo. |
+| 15 | Prototipo de ubicación espacial mediante IoT | Cayambe Gamarra FA / UPS | 2025 | [15] | Presenta un dispositivo corporal con sensores de proximidad, localización y respuestas táctiles y auditivas. | Transformar información espacial en señales perceptibles. | Su arquitectura y resultados requieren evaluación antes de adaptarlos al proyecto. | Captar información espacial y comunicar alertas. | Analizar la integración corporal y priorizar las señales hápticas. |
 
 ## Referencias bibliográficas
 
-[16] Moncada Hernandez RH, Canaca Matamoros DM, Cáceres Lagos FL. Wearable obstacle detection system: enhancing indoor navigation for individuals with visual impairments. LACCEI. 2025;1(12). doi:10.18687/LACCEI2025.1.1.2028.
+1. Instituto Nacional de Estadística e Informática. Perfil sociodemográfico del Perú: Censos Nacionales 2017. Lima: INEI; 2018.
 
-[17] Skulimowski P, Strumiłło P, Trygar S. Haptic and auditory cues: a study on independent navigation for visually impaired individuals. J Multimodal User Interfaces. 2025;19:363-373. doi:10.1007/s12193-025-00463-2.
+2. Organización Mundial de la Salud. Discapacidad visual y ceguera [Internet]. Ginebra: OMS; [citado 29 sep 2026]. Disponible en: https://www.who.int/es/news-room/fact-sheets/detail/blindness-and-visual-impairment
 
-[18] International Electrotechnical Commission. IEC 60529:1989+AMD1:1999+AMD2:2013 CSV. Degrees of protection provided by enclosures (IP Code) [Internet]. Geneva: IEC; 2013 [citado 29 sep 2026]. Disponible en: https://webstore.iec.ch/en/publication/2452
+3. Ekemiri K, Ekemiri C, Ezinne N, Virginia V, Okoendo O, Seemongal-Dass R, et al. Global burden of fall and associated factors among individual with low vision: a systematic-review and meta-analysis. PLoS One. 2024;19(7):e0302428. doi:10.1371/journal.pone.0302428.
 
-[19] International Electrotechnical Commission. IEC 62133-2:2017+AMD1:2021 CSV. Secondary cells and batteries containing alkaline or other non-acid electrolytes: safety requirements for portable sealed secondary cells, and for batteries made from them, for use in portable applications. Part 2: Lithium systems [Internet]. Geneva: IEC; 2021 [citado 29 sep 2026]. Disponible en: https://webstore.iec.ch/en/publication/70017
+4. Shen J, Chen Y, Sawada H. A wearable assistive device for blind pedestrians using real-time object detection and tactile presentation. Sensors (Basel). 2022;22(12):4537. doi:10.3390/s22124537.
 
-[20] International Organization for Standardization. ISO 9241-920:2024. Ergonomics of human-system interaction. Part 920: Tactile and haptic interactions [Internet]. Geneva: ISO; 2024 [citado 29 sep 2026]. Disponible en: https://www.iso.org/standard/80751.html
+5. Naciones Unidas. Objetivos de Desarrollo Sostenible: Objetivo 10 y Objetivo 11 [Internet]. Nueva York: Naciones Unidas; [citado 29 sep 2026]. Disponible en: https://www.un.org/sustainabledevelopment/es/sustainable-development-goals/
 
-[21] World Wide Web Consortium. Web Content Accessibility Guidelines (WCAG) 2.2 [Internet]. W3C; 2024 [citado 29 sep 2026]. Disponible en: https://www.w3.org/TR/WCAG22/
+6. WeWALK. Smart Cane 2 [Internet]. [citado 29 sep 2026]. Disponible en: https://wewalk.io/en/product/
 
-[22] International Organization for Standardization. ISO 21856:2022. Assistive products: general requirements and test methods [Internet]. Geneva: ISO; 2022 [citado 29 sep 2026]. Disponible en: https://www.iso.org/standard/71986.html
+7. biped robotics. NOA by biped: user manual [Internet]. Versión 2024.7. [citado 29 sep 2026]. Disponible en: https://www.biped.ai/en/user-manual/
 
-[24] Kozlov T, Trandofilov A, Gazaryan G, Tokmurziyev I, Altamirano Cabrera M, Tsetserukou D. GuideTouch: an obstacle avoidance device with tactile feedback for visually impaired [prepublicación en Internet]. arXiv; 2026 [citado 29 sep 2026]. Disponible en: https://arxiv.org/abs/2601.13813
+8. Glidance. Glide: intelligent guide aid [Internet]. [citado 29 sep 2026]. Disponible en: https://www.glidance.io/
 
-[25] World Health Organization. Eye care, vision impairment and blindness [Internet]. Geneva: WHO; [s. f.] [citado 29 sep 2026]. Disponible en: https://www.who.int/health-topics/blindness-and-vision-loss
+9. Guangzhou Heijia Tech Co Ltd. Mochila de navegación y evitación de obstáculos para personas ciegas. Patente CN215607427U. 25 ene 2022.
 
-[26] Aziz O, Klenk J, Schwickert L, Chiari L, Becker C, Park EJ, et al. Validation of accuracy of SVM-based fall detection system using real-world fall and non-fall datasets. PLoS One. 2017;12(7):e0180318. doi:10.1371/journal.pone.0180318.
+10. East China Normal University. Sistema inteligente de asistencia para personas con discapacidad visual basado en tecnología de detección heterogénea de múltiples fuentes distribuidas. Patente CN210091198U. 18 feb 2020.
 
-[27] Leong X, Kanesaraj Ramasamy R. Obstacle detection and distance estimation for visually impaired people. IEEE Access. 2023;11:136609-136629. doi:10.1109/ACCESS.2023.3338154.
+11. AI Guided Ltd. Haptic guiding system. Patente WO2023151351A1. 17 ago 2023.
+
+12. van Erp JBF, Kroon LCM, Mioch T, Paul KI. Obstacle detection display for visually impaired: coding of direction, distance, and height on a vibrotactile waist band. Front ICT. 2017;4:23. doi:10.3389/fict.2017.00023.
+
+13. Parra Farfán M. Diseño de dispositivo basado en ultrasonido para desplazamiento de personas en condición de discapacidad visual [tesis de grado en Internet]. Lima: Pontificia Universidad Católica del Perú; 2014 [citado 29 sep 2026]. Disponible en: http://hdl.handle.net/20.500.12404/6041
+
+14. Fernandez Llontop RJ. Bastón sensorial geolocalizador inteligente para apoyar en el desplazamiento de personas invidentes en la Organización Regional de Ciegos del Perú – Chiclayo [tesis de grado en Internet]. Chiclayo: Universidad Católica Santo Toribio de Mogrovejo; 2021 [citado 29 sep 2026]. Disponible en: https://hdl.handle.net/20.500.12423/3213
+
+15. Cayambe Gamarra FA. Diseño e implementación de un prototipo de ubicación espacial para personas con discapacidad visual mediante IoT [tesis de grado en Internet]. Guayaquil: Universidad Politécnica Salesiana; 2025 [citado 29 sep 2026]. Disponible en: https://dspace.ups.edu.ec/handle/123456789/30245
 
 ## Enlaces de las fuentes
 
-- **[16] Sistema portátil de detección de obstáculos:** https://doi.org/10.18687/LACCEI2025.1.1.2028
-- **[17] Señales hápticas y auditivas:** https://doi.org/10.1007/s12193-025-00463-2
-- **[18] IEC 60529:** https://webstore.iec.ch/en/publication/2452
-- **[19] IEC 62133-2:** https://webstore.iec.ch/en/publication/70017
-- **[20] ISO 9241-920:** https://www.iso.org/standard/80751.html
-- **[21] WCAG 2.2:** https://www.w3.org/TR/WCAG22/
-- **[22] ISO 21856:** https://www.iso.org/standard/71986.html
-- **[24] GuideTouch:** https://arxiv.org/abs/2601.13813
-- **[25] OMS — salud visual:** https://www.who.int/health-topics/blindness-and-vision-loss
-- **[26] Detección de caídas:** https://doi.org/10.1371/journal.pone.0180318
-- **[27] Detección de obstáculos y estimación de distancia:** https://doi.org/10.1109/ACCESS.2023.3338154
+- **[1] INEI — publicación de los Censos Nacionales 2017:** referencia impresa consignada en el informe; no se incluyó un enlace.
+- **[2] OMS — discapacidad visual y ceguera:** https://www.who.int/es/news-room/fact-sheets/detail/blindness-and-visual-impairment
+- **[3] Metaanálisis sobre caídas:** https://doi.org/10.1371/journal.pone.0302428
+- **[4] Dispositivo wearable con presentación táctil:** https://doi.org/10.3390/s22124537
+- **[5] Objetivos de Desarrollo Sostenible:** https://www.un.org/sustainabledevelopment/es/sustainable-development-goals/
+- **[6] WeWALK Smart Cane 2:** https://wewalk.io/en/product/
+- **[7] NOA — manual de usuario:** https://www.biped.ai/en/user-manual/
+- **[8] Glide:** https://www.glidance.io/
+- **[9] Patente CN215607427U:** https://patents.google.com/patent/CN215607427U/en
+- **[10] Patente CN210091198U:** https://patents.google.com/patent/CN210091198U/en
+- **[11] Patente WO2023151351A1:** https://patents.google.com/patent/WO2023151351A1/en
+- **[12] Banda vibrotáctil:** https://doi.org/10.3389/fict.2017.00023
+- **[13] Tesis PUCP:** http://hdl.handle.net/20.500.12404/6041
+- **[14] Tesis USAT:** https://hdl.handle.net/20.500.12423/3213
+- **[15] Tesis UPS:** https://dspace.ups.edu.ec/handle/123456789/30245
